@@ -1,0 +1,46 @@
+name: Media pipeline smoke test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install media tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg espeak-ng
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate test source video
+        run: |
+          mkdir -p data/test
+          ffmpeg -y -f lavfi -i "testsrc=size=720x1280:rate=30" -f lavfi -i "sine=frequency=440:sample_rate=44100" -t 5 -c:v libx264 -pix_fmt yuv420p -c:a aac data/test/source.mp4
+
+      - name: Generate Spanish test narration
+        run: |
+          espeak-ng -v es -s 165 -w data/test/narration.wav "Prueba del sistema de clips virales. Este video todavía no se publica."
+
+      - name: Render vertical Short
+        run: |
+          python - <<'PY'
+          from app.render import render_short
+          render_short("data/test/source.mp4", "data/test/final.mp4", voice_audio="data/test/narration.wav")
+          PY
+
+      - name: Validate output
+        run: |
+          test -s data/test/final.mp4
+          ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=p=0 data/test/final.mp4 | grep -qx '1080,1920'
+          echo "Media smoke test passed"
