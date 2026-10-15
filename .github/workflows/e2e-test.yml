@@ -1,0 +1,39 @@
+name: E2E multimedia test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  multimedia-test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install multimedia tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg espeak-ng
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run E2E multimedia test
+        run: python -m app.e2e_smoke_test
+
+      - name: Upload test video
+        uses: actions/upload-artifact@v4
+        with:
+          name: e2e-media-test
+          path: data/test/
+          if-no-files-found: error
