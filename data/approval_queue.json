@@ -1,7 +1,229 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.19,
+    "score": 52.52,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M4ZCE5YEMFPDQJBDSN1SGZ4S",
+      "streamer": "Spreen",
+      "title": "ii",
+      "url": "https://clips.kick.com/clips/72/clip_01M4ZCE5YEMFPDQJBDSN1SGZ4S/playlist.m3u8",
+      "created_at": "2026-10-15T08:57:49.211615+00:00",
+      "views": 3,
+      "duration_seconds": 22,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "spreen"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/72/clip_01M4ZCE5YEMFPDQJBDSN1SGZ4S/playlist.m3u8",
+      "streamer": "Spreen",
+      "hook": "No vas a creer lo que pasó con Spreen.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: ii. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "ii",
+      "description": "Momento destacado de Spreen. ii.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Spreen",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.16,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M4ZESSDAREKARB57FKA84VNF",
+      "streamer": "MrStivenTC",
+      "title": "Gghhhh",
+      "url": "https://clips.kick.com/clips/67/clip_01M4ZESSDAREKARB57FKA84VNF/playlist.m3u8",
+      "created_at": "2026-10-15T09:38:46.750370+00:00",
+      "views": 0,
+      "duration_seconds": 16,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/67/clip_01M4ZESSDAREKARB57FKA84VNF/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: Gghhhh. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Gghhhh",
+      "description": "Momento destacado de MrStivenTC. Gghhhh.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.83,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M4ZDX0VGK9KPM3ERVF5VS5HH",
+      "streamer": "Spreen",
+      "title": "ii",
+      "url": "https://clips.kick.com/clips/88/clip_01M4ZDX0VGK9KPM3ERVF5VS5HH/playlist.m3u8",
+      "created_at": "2026-10-15T09:23:05.371865+00:00",
+      "views": 1,
+      "duration_seconds": 12,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "spreen"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/88/clip_01M4ZDX0VGK9KPM3ERVF5VS5HH/playlist.m3u8",
+      "streamer": "Spreen",
+      "hook": "No vas a creer lo que pasó con Spreen.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: ii. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "ii",
+      "description": "Momento destacado de Spreen. ii.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Spreen",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.48,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M4ZCXZXADN4F6ZH40VS7X76J",
+      "streamer": "MrStivenTC",
+      "title": "Jjkk",
+      "url": "https://clips.kick.com/clips/07/clip_01M4ZCXZXADN4F6ZH40VS7X76J/playlist.m3u8",
+      "created_at": "2026-10-15T09:05:43.311796+00:00",
+      "views": 0,
+      "duration_seconds": 26,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/07/clip_01M4ZCXZXADN4F6ZH40VS7X76J/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: Jjkk. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Jjkk",
+      "description": "Momento destacado de MrStivenTC. Jjkk.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.32,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M4ZCFMYW83NZXFBG4CW48CRS",
+      "streamer": "MrStivenTC",
+      "title": "Jjk",
+      "url": "https://clips.kick.com/clips/28/clip_01M4ZCFMYW83NZXFBG4CW48CRS/playlist.m3u8",
+      "created_at": "2026-10-15T08:58:07.735085+00:00",
+      "views": 0,
+      "duration_seconds": 19,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/28/clip_01M4ZCFMYW83NZXFBG4CW48CRS/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: Jjk. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Jjk",
+      "description": "Momento destacado de MrStivenTC. Jjk.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.26,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M4ZCACD3WDHXGPE5YAM5901K",
+      "streamer": "MrStivenTC",
+      "title": "Kkkl",
+      "url": "https://clips.kick.com/clips/d4/clip_01M4ZCACD3WDHXGPE5YAM5901K/playlist.m3u8",
+      "created_at": "2026-10-15T08:54:57.865084+00:00",
+      "views": 0,
+      "duration_seconds": 40,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/d4/clip_01M4ZCACD3WDHXGPE5YAM5901K/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: Kkkl. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Kkkl",
+      "description": "Momento destacado de MrStivenTC. Kkkl.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.01,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M4ZBKB05S368GCPKDBDJ5SPC",
@@ -38,7 +260,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.58,
+    "score": 50.42,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M4Z9WP6VNGG8GDJKB2J8H7KH",
@@ -75,7 +297,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.49,
+    "score": 50.34,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M4Z9NDQ2Q5F5V5F9DY6EMCHJ",
@@ -112,7 +334,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.13,
+    "score": 49.99,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M4Z8KTE2KGVAQYAYSG3TZCCR",
@@ -130,228 +352,6 @@
     "content_plan": {
       "source": "kick",
       "source_url": "https://clips.kick.com/clips/be/clip_01M4Z8KTE2KGVAQYAYSG3TZCCR/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jj",
-      "description": "Momento destacado de Spreen. jj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.07,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M4Z8F5V13ER6Y8TAQXX2VMBJ",
-      "streamer": "Spreen",
-      "title": "jj",
-      "url": "https://clips.kick.com/clips/53/clip_01M4Z8F5V13ER6Y8TAQXX2VMBJ/playlist.m3u8",
-      "created_at": "2026-10-15T07:47:40.869301+00:00",
-      "views": 0,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/53/clip_01M4Z8F5V13ER6Y8TAQXX2VMBJ/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jj",
-      "description": "Momento destacado de Spreen. jj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.04,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M4Z8AFME0J51AQ8BZ3QHQ5BR",
-      "streamer": "Spreen",
-      "title": "jj",
-      "url": "https://clips.kick.com/clips/5f/clip_01M4Z8AFME0J51AQ8BZ3QHQ5BR/playlist.m3u8",
-      "created_at": "2026-10-15T07:46:06.196774+00:00",
-      "views": 0,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/5f/clip_01M4Z8AFME0J51AQ8BZ3QHQ5BR/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jj",
-      "description": "Momento destacado de Spreen. jj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.99,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M4Z87VWP3Z41VCKA7YGM2XM8",
-      "streamer": "Spreen",
-      "title": "jj",
-      "url": "https://clips.kick.com/clips/7b/clip_01M4Z87VWP3Z41VCKA7YGM2XM8/playlist.m3u8",
-      "created_at": "2026-10-15T07:43:45.961795+00:00",
-      "views": 0,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/7b/clip_01M4Z87VWP3Z41VCKA7YGM2XM8/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jj",
-      "description": "Momento destacado de Spreen. jj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.96,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M4Z84BTWJSF9GWY20WBED3ET",
-      "streamer": "Spreen",
-      "title": "jj",
-      "url": "https://clips.kick.com/clips/de/clip_01M4Z84BTWJSF9GWY20WBED3ET/playlist.m3u8",
-      "created_at": "2026-10-15T07:42:12.959531+00:00",
-      "views": 0,
-      "duration_seconds": 16,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/de/clip_01M4Z84BTWJSF9GWY20WBED3ET/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jj",
-      "description": "Momento destacado de Spreen. jj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.93,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M4Z80Y89GJ1B6W4XFZM5C46S",
-      "streamer": "Spreen",
-      "title": "jj",
-      "url": "https://clips.kick.com/clips/08/clip_01M4Z80Y89GJ1B6W4XFZM5C46S/playlist.m3u8",
-      "created_at": "2026-10-15T07:40:22.775235+00:00",
-      "views": 0,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/08/clip_01M4Z80Y89GJ1B6W4XFZM5C46S/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jj",
-      "description": "Momento destacado de Spreen. jj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.9,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M4Z7YHEKZYET2MC3JBRQPBDZ",
-      "streamer": "Spreen",
-      "title": "jj",
-      "url": "https://clips.kick.com/clips/76/clip_01M4Z7YHEKZYET2MC3JBRQPBDZ/playlist.m3u8",
-      "created_at": "2026-10-15T07:38:51.436225+00:00",
-      "views": 0,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/76/clip_01M4Z7YHEKZYET2MC3JBRQPBDZ/playlist.m3u8",
       "streamer": "Spreen",
       "hook": "No vas a creer lo que pasó con Spreen.",
       "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jj. La reacción y el contexto son lo que hacen que este momento destaque.",
