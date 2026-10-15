@@ -19,18 +19,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run discovery
+      - name: Run discovery and ranking
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
         run: |
           python -m app.pipeline
+          python -m app.production_queue
 
-      - name: Save candidate snapshot
+      - name: Save candidate and approval snapshots
         run: |
           git config user.name "streamer-clips-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/candidates.json
-          git diff --cached --quiet || git commit -m "chore: update discovery candidates"
+          git add data/candidates.json data/approval_queue.json
+          git diff --cached --quiet || git commit -m "chore: update discovery and approval queue"
           git push
