@@ -1,7 +1,81 @@
 [
   {
     "status": "pending_approval",
-    "score": 53.07,
+    "score": 52.8,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M50F9KA7AP4BFNGDEPYBBT36",
+      "streamer": "WestCOL",
+      "title": "felicidad",
+      "url": "https://clips.kick.com/clips/d8/clip_01M50F9KA7AP4BFNGDEPYBBT36/playlist.m3u8",
+      "created_at": "2026-10-15T19:07:49.296285+00:00",
+      "views": 3,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/d8/clip_01M50F9KA7AP4BFNGDEPYBBT36/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: felicidad. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "felicidad",
+      "description": "Momento destacado de WestCOL. felicidad.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.39,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M50FN1NMBZPHBKPR3EGB4AHN",
+      "streamer": "JuanSGuarnizo",
+      "title": "La perla",
+      "url": "https://clips.kick.com/clips/0b/clip_01M50FN1NMBZPHBKPR3EGB4AHN/playlist.m3u8",
+      "created_at": "2026-10-15T19:12:17.167126+00:00",
+      "views": 2,
+      "duration_seconds": 44,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "juansguarnizo"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/0b/clip_01M50FN1NMBZPHBKPR3EGB4AHN/playlist.m3u8",
+      "streamer": "JuanSGuarnizo",
+      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
+      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: La perla. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "La perla",
+      "description": "Momento destacado de JuanSGuarnizo. La perla.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#JuanSGuarnizo",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.36,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M50C3A1E5DNT0T004MFBD99R",
@@ -9,7 +83,7 @@
       "title": "ii",
       "url": "https://clips.kick.com/clips/65/clip_01M50C3A1E5DNT0T004MFBD99R/playlist.m3u8",
       "created_at": "2026-10-15T18:10:44.112732+00:00",
-      "views": 4,
+      "views": 5,
       "duration_seconds": 47,
       "rights_status": "unknown",
       "metadata": {
@@ -38,7 +112,155 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.87,
+    "score": 52.32,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M50FEFV84203PM88KFD9YNGF",
+      "streamer": "Spreen",
+      "title": "spreen",
+      "url": "https://clips.kick.com/clips/77/clip_01M50FEFV84203PM88KFD9YNGF/playlist.m3u8",
+      "created_at": "2026-10-15T19:09:05.065732+00:00",
+      "views": 2,
+      "duration_seconds": 41,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "spreen"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/77/clip_01M50FEFV84203PM88KFD9YNGF/playlist.m3u8",
+      "streamer": "Spreen",
+      "hook": "No vas a creer lo que pasó con Spreen.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: spreen. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "spreen",
+      "description": "Momento destacado de Spreen. spreen.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Spreen",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.19,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M50H0MJJREHZT57DNT7SCN25",
+      "streamer": "JuanSGuarnizo",
+      "title": "pov",
+      "url": "https://clips.kick.com/clips/0b/clip_01M50H0MJJREHZT57DNT7SCN25/playlist.m3u8",
+      "created_at": "2026-10-15T19:36:54.996166+00:00",
+      "views": 0,
+      "duration_seconds": 42,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "juansguarnizo"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/0b/clip_01M50H0MJJREHZT57DNT7SCN25/playlist.m3u8",
+      "streamer": "JuanSGuarnizo",
+      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
+      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: pov. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "pov",
+      "description": "Momento destacado de JuanSGuarnizo. pov.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#JuanSGuarnizo",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.19,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M50DM2ENMCRXSJFZDWDH81PW",
+      "streamer": "JuanSGuarnizo",
+      "title": "Auron llega a Dedsafio",
+      "url": "https://clips.kick.com/clips/3e/clip_01M50DM2ENMCRXSJFZDWDH81PW/playlist.m3u8",
+      "created_at": "2026-10-15T18:37:34.591840+00:00",
+      "views": 3,
+      "duration_seconds": 44,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "juansguarnizo"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/3e/clip_01M50DM2ENMCRXSJFZDWDH81PW/playlist.m3u8",
+      "streamer": "JuanSGuarnizo",
+      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
+      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: Auron llega a Dedsafio. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Auron llega a Dedsafio",
+      "description": "Momento destacado de JuanSGuarnizo. Auron llega a Dedsafio.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#JuanSGuarnizo",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.07,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M50D9YWP5CR2JQX1E30W0TQH",
+      "streamer": "JuanSGuarnizo",
+      "title": "pov",
+      "url": "https://clips.kick.com/clips/78/clip_01M50D9YWP5CR2JQX1E30W0TQH/playlist.m3u8",
+      "created_at": "2026-10-15T18:31:43.133230+00:00",
+      "views": 3,
+      "duration_seconds": 27,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "juansguarnizo"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/78/clip_01M50D9YWP5CR2JQX1E30W0TQH/playlist.m3u8",
+      "streamer": "JuanSGuarnizo",
+      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
+      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: pov. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "pov",
+      "description": "Momento destacado de JuanSGuarnizo. pov.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#JuanSGuarnizo",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.85,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M50BHC4FG6FJTWJWHB30W13B",
@@ -75,53 +297,16 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.61,
+    "score": 51.73,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M50D9YWP5CR2JQX1E30W0TQH",
-      "streamer": "JuanSGuarnizo",
-      "title": "pov",
-      "url": "https://clips.kick.com/clips/78/clip_01M50D9YWP5CR2JQX1E30W0TQH/playlist.m3u8",
-      "created_at": "2026-10-15T18:31:43.133230+00:00",
-      "views": 2,
-      "duration_seconds": 27,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "juansguarnizo"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/78/clip_01M50D9YWP5CR2JQX1E30W0TQH/playlist.m3u8",
-      "streamer": "JuanSGuarnizo",
-      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
-      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: pov. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "pov",
-      "description": "Momento destacado de JuanSGuarnizo. pov.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#JuanSGuarnizo",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.2,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50E17VXRQQM4XHZP0KMVY2C",
+      "source_id": "clip_01M50FQX4ZHXVEH5M3XD5NWEAR",
       "streamer": "Spreen",
-      "title": "le caen piola",
-      "url": "https://clips.kick.com/clips/8b/clip_01M50E17VXRQQM4XHZP0KMVY2C/playlist.m3u8",
-      "created_at": "2026-10-15T18:45:35.575580+00:00",
+      "title": "waw",
+      "url": "https://clips.kick.com/clips/d4/clip_01M50FQX4ZHXVEH5M3XD5NWEAR/playlist.m3u8",
+      "created_at": "2026-10-15T19:14:37.762034+00:00",
       "views": 0,
-      "duration_seconds": 22,
+      "duration_seconds": 51,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "spreen"
@@ -129,13 +314,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/8b/clip_01M50E17VXRQQM4XHZP0KMVY2C/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/d4/clip_01M50FQX4ZHXVEH5M3XD5NWEAR/playlist.m3u8",
       "streamer": "Spreen",
       "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: le caen piola. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: waw. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "le caen piola",
-      "description": "Momento destacado de Spreen. le caen piola.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "title": "waw",
+      "description": "Momento destacado de Spreen. waw.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -149,81 +334,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.12,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50DWFPNK2AMJ3R40R2VDH98",
-      "streamer": "Spreen",
-      "title": "JAJAJS 😭",
-      "url": "https://clips.kick.com/clips/75/clip_01M50DWFPNK2AMJ3R40R2VDH98/playlist.m3u8",
-      "created_at": "2026-10-15T18:41:55.742186+00:00",
-      "views": 0,
-      "duration_seconds": 29,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/75/clip_01M50DWFPNK2AMJ3R40R2VDH98/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: JAJAJS 😭. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "JAJAJS 😭",
-      "description": "Momento destacado de Spreen. JAJAJS 😭.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.09,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M508CWF9710WVQHTQW9PJ9TR",
-      "streamer": "JuanSGuarnizo",
-      "title": "Spoiler",
-      "url": "https://clips.kick.com/clips/f4/clip_01M508CWF9710WVQHTQW9PJ9TR/playlist.m3u8",
-      "created_at": "2026-10-15T17:05:34.620931+00:00",
-      "views": 5,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "juansguarnizo"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/f4/clip_01M508CWF9710WVQHTQW9PJ9TR/playlist.m3u8",
-      "streamer": "JuanSGuarnizo",
-      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
-      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: Spoiler. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Spoiler",
-      "description": "Momento destacado de JuanSGuarnizo. Spoiler.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#JuanSGuarnizo",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.06,
+    "score": 51.72,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M50DPJDTNQAZDYGNWYGR4CKW",
@@ -231,7 +342,7 @@
       "title": "6",
       "url": "https://clips.kick.com/clips/a9/clip_01M50DPJDTNQAZDYGNWYGR4CKW/playlist.m3u8",
       "created_at": "2026-10-15T18:39:12.641255+00:00",
-      "views": 1,
+      "views": 2,
       "duration_seconds": 40,
       "rights_status": "unknown",
       "metadata": {
@@ -251,117 +362,6 @@
         "#Shorts",
         "#Viral",
         "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.06,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50DR57ZHPJKHHV0FBZZTXQN",
-      "streamer": "Spreen",
-      "title": "xd",
-      "url": "https://clips.kick.com/clips/ee/clip_01M50DR57ZHPJKHHV0FBZZTXQN/playlist.m3u8",
-      "created_at": "2026-10-15T18:39:09.065802+00:00",
-      "views": 1,
-      "duration_seconds": 46,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/ee/clip_01M50DR57ZHPJKHHV0FBZZTXQN/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: xd. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "xd",
-      "description": "Momento destacado de Spreen. xd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.05,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50DNDN534J8DG970XD1V008",
-      "streamer": "Spreen",
-      "title": "popea",
-      "url": "https://clips.kick.com/clips/cc/clip_01M50DNDN534J8DG970XD1V008/playlist.m3u8",
-      "created_at": "2026-10-15T18:38:21.695125+00:00",
-      "views": 0,
-      "duration_seconds": 26,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/cc/clip_01M50DNDN534J8DG970XD1V008/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: popea. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "popea",
-      "description": "Momento destacado de Spreen. popea.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.03,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50DM2ENMCRXSJFZDWDH81PW",
-      "streamer": "JuanSGuarnizo",
-      "title": "Auron llega a Dedsafio",
-      "url": "https://clips.kick.com/clips/3e/clip_01M50DM2ENMCRXSJFZDWDH81PW/playlist.m3u8",
-      "created_at": "2026-10-15T18:37:34.591840+00:00",
-      "views": 1,
-      "duration_seconds": 44,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "juansguarnizo"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/3e/clip_01M50DM2ENMCRXSJFZDWDH81PW/playlist.m3u8",
-      "streamer": "JuanSGuarnizo",
-      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
-      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: Auron llega a Dedsafio. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Auron llega a Dedsafio",
-      "description": "Momento destacado de JuanSGuarnizo. Auron llega a Dedsafio.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#JuanSGuarnizo",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
