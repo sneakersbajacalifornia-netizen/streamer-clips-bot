@@ -1,145 +1,34 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.45,
+    "score": 52.84,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M50TSTYT8VT80J2EP0314KHC",
-      "streamer": "JuanSGuarnizo",
-      "title": "EL PUTISIMO TIMING",
-      "url": "https://clips.kick.com/clips/3e/clip_01M50TSTYT8VT80J2EP0314KHC/playlist.m3u8",
-      "created_at": "2026-10-15T22:27:08.747911+00:00",
-      "views": 4,
-      "duration_seconds": 30,
+      "source_id": "clip_01M512NND1R9W6BF0FA8GPYMNE",
+      "streamer": "WestCOL",
+      "title": "sd",
+      "url": "https://clips.kick.com/clips/bb/clip_01M512NND1R9W6BF0FA8GPYMNE/playlist.m3u8",
+      "created_at": "2026-10-16T00:44:49.422089+00:00",
+      "views": 2,
+      "duration_seconds": 43,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "juansguarnizo"
+        "kick_slug": "westcol"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/3e/clip_01M50TSTYT8VT80J2EP0314KHC/playlist.m3u8",
-      "streamer": "JuanSGuarnizo",
-      "hook": "No vas a creer lo que pasó con JuanSGuarnizo.",
-      "narration": "Este momento de JuanSGuarnizo está llamando la atención. El clip muestra: EL PUTISIMO TIMING. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/bb/clip_01M512NND1R9W6BF0FA8GPYMNE/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: sd. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "EL PUTISIMO TIMING",
-      "description": "Momento destacado de JuanSGuarnizo. EL PUTISIMO TIMING.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #JuanSGuarnizo #Streamer",
+      "title": "sd",
+      "description": "Momento destacado de WestCOL. sd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#JuanSGuarnizo",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.2,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50YJMF8SE8RM49XJ0RMJYVN",
-      "streamer": "MrStivenTC",
-      "title": "kkk",
-      "url": "https://clips.kick.com/clips/3d/clip_01M50YJMF8SE8RM49XJ0RMJYVN/playlist.m3u8",
-      "created_at": "2026-10-15T23:33:07.995978+00:00",
-      "views": 0,
-      "duration_seconds": 31,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/3d/clip_01M50YJMF8SE8RM49XJ0RMJYVN/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: kkk. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "kkk",
-      "description": "Momento destacado de MrStivenTC. kkk.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.2,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50YJGC7ZHE5JQ0ZJ7NRVW39",
-      "streamer": "MrStivenTC",
-      "title": "hjjy",
-      "url": "https://clips.kick.com/clips/46/clip_01M50YJGC7ZHE5JQ0ZJ7NRVW39/playlist.m3u8",
-      "created_at": "2026-10-15T23:33:06.783302+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/46/clip_01M50YJGC7ZHE5JQ0ZJ7NRVW39/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: hjjy. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "hjjy",
-      "description": "Momento destacado de MrStivenTC. hjjy.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.2,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50YJMYAHKKQQHWX1PH5MNW2",
-      "streamer": "MrStivenTC",
-      "title": "qq",
-      "url": "https://clips.kick.com/clips/87/clip_01M50YJMYAHKKQQHWX1PH5MNW2/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:56.825830+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/87/clip_01M50YJMYAHKKQQHWX1PH5MNW2/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: qq. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "qq",
-      "description": "Momento destacado de MrStivenTC. qq.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
+        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -152,31 +41,31 @@
     "score": 52.19,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M50YJ5S36AGDXRMVZV42BQTP",
-      "streamer": "MrStivenTC",
-      "title": "okkkkk",
-      "url": "https://clips.kick.com/clips/26/clip_01M50YJ5S36AGDXRMVZV42BQTP/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:45.530514+00:00",
+      "source_id": "clip_01M512V2P4EGHX02XKZQYTH12P",
+      "streamer": "WestCOL",
+      "title": "rrg",
+      "url": "https://clips.kick.com/clips/8f/clip_01M512V2P4EGHX02XKZQYTH12P/playlist.m3u8",
+      "created_at": "2026-10-16T00:47:36.963404+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "mrstiventc"
+        "kick_slug": "westcol"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/26/clip_01M50YJ5S36AGDXRMVZV42BQTP/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: okkkkk. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/8f/clip_01M512V2P4EGHX02XKZQYTH12P/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: rrg. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "okkkkk",
-      "description": "Momento destacado de MrStivenTC. okkkkk.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "title": "rrg",
+      "description": "Momento destacado de WestCOL. rrg.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#MrStivenTC",
+        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -186,34 +75,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.19,
+    "score": 52.17,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M50YJ4M73XD3XYYJ69XSYCJP",
-      "streamer": "MrStivenTC",
-      "title": "tyyyy",
-      "url": "https://clips.kick.com/clips/cd/clip_01M50YJ4M73XD3XYYJ69XSYCJP/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:42.127253+00:00",
+      "source_id": "clip_01M512SN4SM8NMNV8662E2R2FC",
+      "streamer": "WestCOL",
+      "title": "rr",
+      "url": "https://clips.kick.com/clips/cd/clip_01M512SN4SM8NMNV8662E2R2FC/playlist.m3u8",
+      "created_at": "2026-10-16T00:46:48.828718+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "mrstiventc"
+        "kick_slug": "westcol"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/cd/clip_01M50YJ4M73XD3XYYJ69XSYCJP/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: tyyyy. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/cd/clip_01M512SN4SM8NMNV8662E2R2FC/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: rr. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "tyyyy",
-      "description": "Momento destacado de MrStivenTC. tyyyy.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "title": "rr",
+      "description": "Momento destacado de WestCOL. rr.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#MrStivenTC",
+        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -223,90 +112,16 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.19,
+    "score": 52.16,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M50YJ2Z6XP8FQSSP1BXKE25Y",
-      "streamer": "MrStivenTC",
-      "title": "bbnj",
-      "url": "https://clips.kick.com/clips/d5/clip_01M50YJ2Z6XP8FQSSP1BXKE25Y/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:41.725897+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/d5/clip_01M50YJ2Z6XP8FQSSP1BXKE25Y/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: bbnj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "bbnj",
-      "description": "Momento destacado de MrStivenTC. bbnj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.19,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50YJ1Q9K9VQP1DRE8HKPCT1",
-      "streamer": "MrStivenTC",
-      "title": "qq",
-      "url": "https://clips.kick.com/clips/10/clip_01M50YJ1Q9K9VQP1DRE8HKPCT1/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:38.990198+00:00",
-      "views": 0,
-      "duration_seconds": 32,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/10/clip_01M50YJ1Q9K9VQP1DRE8HKPCT1/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: qq. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "qq",
-      "description": "Momento destacado de MrStivenTC. qq.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.19,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M50YHREQQEDQFNS6NSNKBPCD",
+      "source_id": "clip_01M512QJRVZ0ACSHGFBQRR7VNB",
       "streamer": "Spreen",
-      "title": "ii",
-      "url": "https://clips.kick.com/clips/af/clip_01M50YHREQQEDQFNS6NSNKBPCD/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:29.285831+00:00",
+      "title": "XDDD",
+      "url": "https://clips.kick.com/clips/33/clip_01M512QJRVZ0ACSHGFBQRR7VNB/playlist.m3u8",
+      "created_at": "2026-10-16T00:46:10.193085+00:00",
       "views": 0,
-      "duration_seconds": 30,
+      "duration_seconds": 22,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "spreen"
@@ -314,13 +129,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/af/clip_01M50YHREQQEDQFNS6NSNKBPCD/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/33/clip_01M512QJRVZ0ACSHGFBQRR7VNB/playlist.m3u8",
       "streamer": "Spreen",
       "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: ii. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: XDDD. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "ii",
-      "description": "Momento destacado de Spreen. ii.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "title": "XDDD",
+      "description": "Momento destacado de Spreen. XDDD.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -334,34 +149,219 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.18,
+    "score": 52.15,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M50YH4NW0R9PD5BBQD2CDMQH",
-      "streamer": "MrStivenTC",
-      "title": "ttt",
-      "url": "https://clips.kick.com/clips/ec/clip_01M50YH4NW0R9PD5BBQD2CDMQH/playlist.m3u8",
-      "created_at": "2026-10-15T23:32:09.789957+00:00",
+      "source_id": "clip_01M512PKD17DYY1ACKEZWFWAF0",
+      "streamer": "WestCOL",
+      "title": "js",
+      "url": "https://clips.kick.com/clips/90/clip_01M512PKD17DYY1ACKEZWFWAF0/playlist.m3u8",
+      "created_at": "2026-10-16T00:45:50.732551+00:00",
       "views": 0,
-      "duration_seconds": 30,
+      "duration_seconds": 48,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "mrstiventc"
+        "kick_slug": "westcol"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/ec/clip_01M50YH4NW0R9PD5BBQD2CDMQH/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: ttt. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/90/clip_01M512PKD17DYY1ACKEZWFWAF0/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: js. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "ttt",
-      "description": "Momento destacado de MrStivenTC. ttt.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "title": "js",
+      "description": "Momento destacado de WestCOL. js.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#MrStivenTC",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.15,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M512NMR0HXSTTJA5DSC63K2H",
+      "streamer": "WestCOL",
+      "title": ".",
+      "url": "https://clips.kick.com/clips/4e/clip_01M512NMR0HXSTTJA5DSC63K2H/playlist.m3u8",
+      "created_at": "2026-10-16T00:45:44.939157+00:00",
+      "views": 0,
+      "duration_seconds": 39,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/4e/clip_01M512NMR0HXSTTJA5DSC63K2H/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: .. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": ".",
+      "description": "Momento destacado de WestCOL. ..\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.13,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M512NF30AGD3DS8N533TH9MV",
+      "streamer": "WestCOL",
+      "title": "regañi",
+      "url": "https://clips.kick.com/clips/3f/clip_01M512NF30AGD3DS8N533TH9MV/playlist.m3u8",
+      "created_at": "2026-10-16T00:44:32.238307+00:00",
+      "views": 0,
+      "duration_seconds": 52,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/3f/clip_01M512NF30AGD3DS8N533TH9MV/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: regañi. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "regañi",
+      "description": "Momento destacado de WestCOL. regañi.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.13,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M512MYVSQDBD2HE3TC12WHZQ",
+      "streamer": "WestCOL",
+      "title": "relokes de la ganga",
+      "url": "https://clips.kick.com/clips/4d/clip_01M512MYVSQDBD2HE3TC12WHZQ/playlist.m3u8",
+      "created_at": "2026-10-16T00:44:31.126334+00:00",
+      "views": 0,
+      "duration_seconds": 43,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/4d/clip_01M512MYVSQDBD2HE3TC12WHZQ/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: relokes de la ganga. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "relokes de la ganga",
+      "description": "Momento destacado de WestCOL. relokes de la ganga.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.1,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M512J3SF23916NXTK3HWZ1J5",
+      "streamer": "Spreen",
+      "title": "jej",
+      "url": "https://clips.kick.com/clips/cf/clip_01M512J3SF23916NXTK3HWZ1J5/playlist.m3u8",
+      "created_at": "2026-10-16T00:43:24.174665+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "spreen"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/cf/clip_01M512J3SF23916NXTK3HWZ1J5/playlist.m3u8",
+      "streamer": "Spreen",
+      "hook": "No vas a creer lo que pasó con Spreen.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: jej. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "jej",
+      "description": "Momento destacado de Spreen. jej.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Spreen",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.09,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M512HR6QJM91X96Z9SV85209",
+      "streamer": "Spreen",
+      "title": "spy",
+      "url": "https://clips.kick.com/clips/5a/clip_01M512HR6QJM91X96Z9SV85209/playlist.m3u8",
+      "created_at": "2026-10-16T00:42:40.005530+00:00",
+      "views": 1,
+      "duration_seconds": 19,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "spreen"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/5a/clip_01M512HR6QJM91X96Z9SV85209/playlist.m3u8",
+      "streamer": "Spreen",
+      "hook": "No vas a creer lo que pasó con Spreen.",
+      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: spy. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "spy",
+      "description": "Momento destacado de Spreen. spy.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Spreen",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
