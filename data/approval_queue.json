@@ -1,7 +1,44 @@
 [
   {
     "status": "pending_approval",
-    "score": 51.9,
+    "score": 51.05,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M521F4D1XYBAHMEN4M1R3Q2N",
+      "streamer": "WestCOL",
+      "title": "los amigos",
+      "url": "https://clips.kick.com/clips/b6/clip_01M521F4D1XYBAHMEN4M1R3Q2N/playlist.m3u8",
+      "created_at": "2026-10-16T09:43:57.068662+00:00",
+      "views": 0,
+      "duration_seconds": 17,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/b6/clip_01M521F4D1XYBAHMEN4M1R3Q2N/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: los amigos. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "los amigos",
+      "description": "Momento destacado de WestCOL. los amigos.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.66,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M520D40HRYW28HD32ZT0YCT9",
@@ -38,7 +75,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.71,
+    "score": 50.51,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51XVPT9Q4FRHKKTG3S4ZHD7",
@@ -75,7 +112,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.65,
+    "score": 50.46,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51XR7N39PWTHW6ZW9QX4B23",
@@ -112,7 +149,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.62,
+    "score": 50.43,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51XKZRPM0F64DRQKC9PHG10",
@@ -149,7 +186,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.43,
+    "score": 50.21,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51Z1SEWZ0C5KBD3KPYZZ8C2",
@@ -186,7 +223,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.14,
+    "score": 49.98,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51TQT8CBSRRF9XGRKQGTT40",
@@ -223,7 +260,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.02,
+    "score": 49.82,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51XYFT3PEFAJ4W7NGGD6XFM",
@@ -260,7 +297,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.89,
+    "score": 49.7,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51XJS8G920H0PMDNW4KSFR0",
@@ -297,7 +334,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.78,
+    "score": 49.64,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M51SNA7CKHQAP449X9T692F0",
@@ -325,43 +362,6 @@
         "#Shorts",
         "#Viral",
         "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.41,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M51RKAGH6FJZE15KGRW46B2P",
-      "streamer": "Spreen",
-      "title": ".",
-      "url": "https://clips.kick.com/clips/c0/clip_01M51RKAGH6FJZE15KGRW46B2P/playlist.m3u8",
-      "created_at": "2026-10-16T07:07:45.520851+00:00",
-      "views": 3,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "spreen"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/c0/clip_01M51RKAGH6FJZE15KGRW46B2P/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: .. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": ".",
-      "description": "Momento destacado de Spreen. ..\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Spreen",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
