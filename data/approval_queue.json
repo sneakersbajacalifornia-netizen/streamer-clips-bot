@@ -1,7 +1,44 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.01,
+    "score": 51.95,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M54SGDVFTEFRWXND7D34DM1X",
+      "streamer": "WestCOL",
+      "title": "abelardo",
+      "url": "https://clips.kick.com/clips/b6/clip_01M54SGDVFTEFRWXND7D34DM1X/playlist.m3u8",
+      "created_at": "2026-10-17T11:22:52.768666+00:00",
+      "views": 0,
+      "duration_seconds": 35,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/b6/clip_01M54SGDVFTEFRWXND7D34DM1X/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: abelardo. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "abelardo",
+      "description": "Momento destacado de WestCOL. abelardo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.81,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54P9WA6KGB30FB7PW1JSVVC",
@@ -38,7 +75,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.94,
+    "score": 50.74,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54P0JB7RADX0R1E5XTWSMA0",
@@ -75,7 +112,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.14,
+    "score": 49.97,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54KRZ5N41NF4XC1N8AFS8SH",
@@ -112,7 +149,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.06,
+    "score": 49.9,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54KMEGQCXDJNZEW519HDSH6",
@@ -149,7 +186,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.94,
+    "score": 49.78,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54K8KXRS0RFKEKHB5HGXGZB",
@@ -186,7 +223,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.89,
+    "score": 49.73,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54K19FKQG74D82YTQ3VK35Z",
@@ -223,7 +260,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.79,
+    "score": 49.63,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54JJ4GQNEA4JNZRECZW2EK5",
@@ -260,7 +297,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.58,
+    "score": 49.43,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M54JAD3EVZYYNMHVFC0QTH2D",
@@ -297,71 +334,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.34,
+    "score": 49.22,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M54HKWYAAFX22D814DZFH3Z9",
-      "streamer": "RDJavi",
-      "title": "bkl",
-      "url": "https://clips.kick.com/clips/e6/clip_01M54HKWYAAFX22D814DZFH3Z9/playlist.m3u8",
-      "created_at": "2026-10-17T09:03:38.941668+00:00",
-      "views": 0,
-      "duration_seconds": 48,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/e6/clip_01M54HKWYAAFX22D814DZFH3Z9/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: bkl. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "bkl",
-      "description": "Momento destacado de RDJavi. bkl.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 49.85,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M54CE60ANYH2HXSJN09V1WFN",
-      "streamer": "Spreen",
-      "title": "asd",
-      "url": "https://clips.kick.com/clips/db/clip_01M54CE60ANYH2HXSJN09V1WFN/playlist.m3u8",
-      "created_at": "2026-10-17T07:34:06.361826+00:00",
+      "source_id": "clip_01M54DXHD68DX713QBZEBER0CW",
+      "streamer": "WestCOL",
+      "title": "estoy que le escribo",
+      "url": "https://clips.kick.com/clips/3b/clip_01M54DXHD68DX713QBZEBER0CW/playlist.m3u8",
+      "created_at": "2026-10-17T07:59:00.189192+00:00",
       "views": 3,
-      "duration_seconds": 38,
+      "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "spreen"
+        "kick_slug": "westcol"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/db/clip_01M54CE60ANYH2HXSJN09V1WFN/playlist.m3u8",
-      "streamer": "Spreen",
-      "hook": "No vas a creer lo que pasó con Spreen.",
-      "narration": "Este momento de Spreen está llamando la atención. El clip muestra: asd. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/3b/clip_01M54DXHD68DX713QBZEBER0CW/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: estoy que le escribo. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "asd",
-      "description": "Momento destacado de Spreen. asd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Spreen #Streamer",
+      "title": "estoy que le escribo",
+      "description": "Momento destacado de WestCOL. estoy que le escribo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#Spreen",
+        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
