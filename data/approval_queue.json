@@ -1,51 +1,14 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.16,
+    "score": 52.18,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5DN9TCQYTHYF63BY0GXH2MB",
-      "streamer": "WestCOL",
-      "title": "¿quieres que te acompañemos?",
-      "url": "https://clips.kick.com/clips/fc/clip_01M5DN9TCQYTHYF63BY0GXH2MB/playlist.m3u8",
-      "created_at": "2026-10-20T22:01:34.431524+00:00",
-      "views": 2,
-      "duration_seconds": 29,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/fc/clip_01M5DN9TCQYTHYF63BY0GXH2MB/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: ¿quieres que te acompañemos?. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "¿quieres que te acompañemos?",
-      "description": "Momento destacado de WestCOL. ¿quieres que te acompañemos?.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.09,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5DN3B0WJ8ZQ2BE6Z28KZWFB",
+      "source_id": "clip_01M5DRNED0K7HF7Y6B6ZTJXVYY",
       "streamer": "WestCOL",
       "title": "west",
-      "url": "https://clips.kick.com/clips/cf/clip_01M5DN3B0WJ8ZQ2BE6Z28KZWFB/playlist.m3u8",
-      "created_at": "2026-10-20T21:57:54.284126+00:00",
+      "url": "https://clips.kick.com/clips/a4/clip_01M5DRNED0K7HF7Y6B6ZTJXVYY/playlist.m3u8",
+      "created_at": "2026-10-20T23:00:17.359342+00:00",
       "views": 2,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -55,7 +18,7 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/cf/clip_01M5DN3B0WJ8ZQ2BE6Z28KZWFB/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/a4/clip_01M5DRNED0K7HF7Y6B6ZTJXVYY/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
       "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: west. La reacción y el contexto son lo que hacen que este momento destaque.",
@@ -75,14 +38,88 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.0,
+    "score": 52.12,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5DPSXFTDFNVGA0FHMG4Y1YA",
+      "source_id": "clip_01M5DTFWCA7BZYWNRV6ZFH0JXB",
       "streamer": "WestCOL",
-      "title": "activo",
-      "url": "https://clips.kick.com/clips/ae/clip_01M5DPSXFTDFNVGA0FHMG4Y1YA/playlist.m3u8",
-      "created_at": "2026-10-20T22:27:48.644258+00:00",
+      "title": "lsls",
+      "url": "https://clips.kick.com/clips/ae/clip_01M5DTFWCA7BZYWNRV6ZFH0JXB/playlist.m3u8",
+      "created_at": "2026-10-20T23:31:42.687760+00:00",
+      "views": 0,
+      "duration_seconds": 29,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/ae/clip_01M5DTFWCA7BZYWNRV6ZFH0JXB/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: lsls. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "lsls",
+      "description": "Momento destacado de WestCOL. lsls.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.09,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5DTD6ZMKX5VTW7AAX3P5CN0",
+      "streamer": "WestCOL",
+      "title": "ke",
+      "url": "https://clips.kick.com/clips/c2/clip_01M5DTD6ZMKX5VTW7AAX3P5CN0/playlist.m3u8",
+      "created_at": "2026-10-20T23:30:16.659001+00:00",
+      "views": 0,
+      "duration_seconds": 38,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/c2/clip_01M5DTD6ZMKX5VTW7AAX3P5CN0/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: ke. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "ke",
+      "description": "Momento destacado de WestCOL. ke.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.07,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5DTB9SJSRJZGRPQHDNSZV78",
+      "streamer": "WestCOL",
+      "title": "Wescolt Salva a niña de ser aplastada",
+      "url": "https://clips.kick.com/clips/d9/clip_01M5DTB9SJSRJZGRPQHDNSZV78/playlist.m3u8",
+      "created_at": "2026-10-20T23:29:23.918734+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -92,13 +129,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/ae/clip_01M5DPSXFTDFNVGA0FHMG4Y1YA/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/d9/clip_01M5DTB9SJSRJZGRPQHDNSZV78/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: activo. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: Wescolt Salva a niña de ser aplastada. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "activo",
-      "description": "Momento destacado de WestCOL. activo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "Wescolt Salva a niña de ser aplastada",
+      "description": "Momento destacado de WestCOL. Wescolt Salva a niña de ser aplastada.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -112,16 +149,16 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.9,
+    "score": 52.06,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5DPH789Z00ZK7VQDJBJRK7A",
+      "source_id": "clip_01M5DTAHZZWWKW54QSWC7BTS6B",
       "streamer": "WestCOL",
-      "title": "luisa",
-      "url": "https://clips.kick.com/clips/24/clip_01M5DPH789Z00ZK7VQDJBJRK7A/playlist.m3u8",
-      "created_at": "2026-10-20T22:22:57.737362+00:00",
-      "views": 1,
-      "duration_seconds": 30,
+      "title": "sus",
+      "url": "https://clips.kick.com/clips/fe/clip_01M5DTAHZZWWKW54QSWC7BTS6B/playlist.m3u8",
+      "created_at": "2026-10-20T23:28:52.129343+00:00",
+      "views": 0,
+      "duration_seconds": 34,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "westcol"
@@ -129,13 +166,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/24/clip_01M5DPH789Z00ZK7VQDJBJRK7A/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/fe/clip_01M5DTAHZZWWKW54QSWC7BTS6B/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: luisa. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: sus. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "luisa",
-      "description": "Momento destacado de WestCOL. luisa.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "sus",
+      "description": "Momento destacado de WestCOL. sus.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -149,14 +186,14 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.89,
+    "score": 52.06,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5DPF6PH5TK9JB665QZVCRHD",
+      "source_id": "clip_01M5DT9NMXFAPPWVYGDM09Y9Y5",
       "streamer": "WestCOL",
-      "title": "gcc",
-      "url": "https://clips.kick.com/clips/4e/clip_01M5DPF6PH5TK9JB665QZVCRHD/playlist.m3u8",
-      "created_at": "2026-10-20T22:22:29.135013+00:00",
+      "title": "jjs",
+      "url": "https://clips.kick.com/clips/f5/clip_01M5DT9NMXFAPPWVYGDM09Y9Y5/playlist.m3u8",
+      "created_at": "2026-10-20T23:28:39.494566+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -166,13 +203,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/4e/clip_01M5DPF6PH5TK9JB665QZVCRHD/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/f5/clip_01M5DT9NMXFAPPWVYGDM09Y9Y5/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: gcc. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: jjs. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "gcc",
-      "description": "Momento destacado de WestCOL. gcc.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "jjs",
+      "description": "Momento destacado de WestCOL. jjs.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -186,14 +223,14 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.85,
+    "score": 52.03,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5DPCFVFEWPHMZQE8F2R0SQV",
+      "source_id": "clip_01M5DT7Q5CF4DTTPC4AQ53MS6H",
       "streamer": "WestCOL",
-      "title": "una rodada",
-      "url": "https://clips.kick.com/clips/39/clip_01M5DPCFVFEWPHMZQE8F2R0SQV/playlist.m3u8",
-      "created_at": "2026-10-20T22:20:52.224979+00:00",
+      "title": "fjjd",
+      "url": "https://clips.kick.com/clips/ce/clip_01M5DT7Q5CF4DTTPC4AQ53MS6H/playlist.m3u8",
+      "created_at": "2026-10-20T23:27:29.557966+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -203,13 +240,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/39/clip_01M5DPCFVFEWPHMZQE8F2R0SQV/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/ce/clip_01M5DT7Q5CF4DTTPC4AQ53MS6H/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: una rodada. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: fjjd. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "una rodada",
-      "description": "Momento destacado de WestCOL. una rodada.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "fjjd",
+      "description": "Momento destacado de WestCOL. fjjd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -223,15 +260,89 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.81,
+    "score": 52.02,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5DP9MJS1YFXAQ6DRNG7CSBM",
+      "source_id": "clip_01M5DT5HR6FB3TY0GEEY4KDJ9Y",
       "streamer": "WestCOL",
-      "title": "epaa",
-      "url": "https://clips.kick.com/clips/14/clip_01M5DP9MJS1YFXAQ6DRNG7CSBM/playlist.m3u8",
-      "created_at": "2026-10-20T22:18:34.352186+00:00",
+      "title": "wescol imprecionado",
+      "url": "https://clips.kick.com/clips/9e/clip_01M5DT5HR6FB3TY0GEEY4KDJ9Y/playlist.m3u8",
+      "created_at": "2026-10-20T23:26:50.792722+00:00",
       "views": 0,
+      "duration_seconds": 38,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/9e/clip_01M5DT5HR6FB3TY0GEEY4KDJ9Y/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: wescol imprecionado. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "wescol imprecionado",
+      "description": "Momento destacado de WestCOL. wescol imprecionado.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.97,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5DSZ6A7A6043WABDTFHXYK5",
+      "streamer": "WestCOL",
+      "title": "wjjeje",
+      "url": "https://clips.kick.com/clips/f4/clip_01M5DSZ6A7A6043WABDTFHXYK5/playlist.m3u8",
+      "created_at": "2026-10-20T23:24:32.218239+00:00",
+      "views": 0,
+      "duration_seconds": 21,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/f4/clip_01M5DSZ6A7A6043WABDTFHXYK5/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: wjjeje. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "wjjeje",
+      "description": "Momento destacado de WestCOL. wjjeje.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.97,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5DR2VC05NBB8V19JJM56QT0",
+      "streamer": "WestCOL",
+      "title": "westcol en el gransan",
+      "url": "https://clips.kick.com/clips/86/clip_01M5DR2VC05NBB8V19JJM56QT0/playlist.m3u8",
+      "created_at": "2026-10-20T22:49:41.343358+00:00",
+      "views": 2,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -240,124 +351,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/14/clip_01M5DP9MJS1YFXAQ6DRNG7CSBM/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/86/clip_01M5DR2VC05NBB8V19JJM56QT0/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: epaa. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: westcol en el gransan. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "epaa",
-      "description": "Momento destacado de WestCOL. epaa.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.78,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5DP6E5W4V9P3EZSJ2XC0Q16",
-      "streamer": "WestCOL",
-      "title": "westcol",
-      "url": "https://clips.kick.com/clips/af/clip_01M5DP6E5W4V9P3EZSJ2XC0Q16/playlist.m3u8",
-      "created_at": "2026-10-20T22:17:10.448268+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/af/clip_01M5DP6E5W4V9P3EZSJ2XC0Q16/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: westcol. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "westcol",
-      "description": "Momento destacado de WestCOL. westcol.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.73,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5DP23NPNV33Z584R72KMJMK",
-      "streamer": "WestCOL",
-      "title": "comunidad",
-      "url": "https://clips.kick.com/clips/01/clip_01M5DP23NPNV33Z584R72KMJMK/playlist.m3u8",
-      "created_at": "2026-10-20T22:14:57.118137+00:00",
-      "views": 1,
-      "duration_seconds": 44,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/01/clip_01M5DP23NPNV33Z584R72KMJMK/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: comunidad. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "comunidad",
-      "description": "Momento destacado de WestCOL. comunidad.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.71,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5DP04300GRCWZAZB0DKYJNS",
-      "streamer": "WestCOL",
-      "title": "wescol",
-      "url": "https://clips.kick.com/clips/4f/clip_01M5DP04300GRCWZAZB0DKYJNS/playlist.m3u8",
-      "created_at": "2026-10-20T22:13:48.724662+00:00",
-      "views": 0,
-      "duration_seconds": 32,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/4f/clip_01M5DP04300GRCWZAZB0DKYJNS/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: wescol. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "wescol",
-      "description": "Momento destacado de WestCOL. wescol.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "westcol en el gransan",
+      "description": "Momento destacado de WestCOL. westcol en el gransan.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
