@@ -1,7 +1,7 @@
 [
   {
     "status": "pending_approval",
-    "score": 50.94,
+    "score": 49.76,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5CANVMY396NVP878AH5MRS5",
@@ -38,7 +38,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.84,
+    "score": 49.66,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5CACZ7XWXYF054ZRY9VTX7Q",
@@ -75,7 +75,81 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.59,
+    "score": 48.54,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "title": "EL ATAQUEEE!!!",
+      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "created_at": "2022-04-03T21:00:47+00:00",
+      "views": 766720,
+      "duration_seconds": 50,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "AlexNyan83"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "hook": "No vas a creer lo que pasó con Rubius.",
+      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: EL ATAQUEEE!!!. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "EL ATAQUEEE!!!",
+      "description": "Momento destacado de Rubius. EL ATAQUEEE!!!.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Rubius",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 47.68,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "streamer": "AuronPlay",
+      "title": "Te imaginas que lo mato con esto tio? :v",
+      "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "created_at": "2023-10-12T20:31:39+00:00",
+      "views": 469064,
+      "duration_seconds": 25,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "tomssquall247"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "streamer": "AuronPlay",
+      "hook": "No vas a creer lo que pasó con AuronPlay.",
+      "narration": "Este momento de AuronPlay está llamando la atención. El clip muestra: Te imaginas que lo mato con esto tio? :v. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Te imaginas que lo mato con esto tio? :v",
+      "description": "Momento destacado de AuronPlay. Te imaginas que lo mato con esto tio? :v.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #AuronPlay #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#AuronPlay",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 47.5,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5C3PKHVTHF4EDP9JE4K6AR3",
@@ -112,44 +186,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.54,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "title": "EL ATAQUEEE!!!",
-      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "created_at": "2022-04-03T21:00:47+00:00",
-      "views": 766718,
-      "duration_seconds": 50,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "AlexNyan83"
-      }
-    },
-    "content_plan": {
-      "source": "twitch",
-      "source_url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "hook": "No vas a creer lo que pasó con Rubius.",
-      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: EL ATAQUEEE!!!. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "EL ATAQUEEE!!!",
-      "description": "Momento destacado de Rubius. EL ATAQUEEE!!!.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Rubius",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 48.49,
+    "score": 47.44,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5C152VJ4YNXKSKJDWHRBYFC",
@@ -186,7 +223,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.38,
+    "score": 47.31,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5C30Z71EJEYRJ0H9JQY83K9",
@@ -223,7 +260,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.17,
+    "score": 47.1,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5C28Y1M0NRW270QXM309MFE",
@@ -260,7 +297,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.11,
+    "score": 47.04,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5C24DF08YVA5MTM7HABVXNQ",
@@ -297,7 +334,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.06,
+    "score": 46.99,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5C200WKSFQ2DF83EVEJ07QY",
@@ -321,43 +358,6 @@
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
       "title": "ygbnl",
       "description": "Momento destacado de MrStivenTC. ygbnl.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 48.03,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5C1X5GH8WST71103M9B7CHN",
-      "streamer": "MrStivenTC",
-      "title": "khjojj",
-      "url": "https://clips.kick.com/clips/57/clip_01M5C1X5GH8WST71103M9B7CHN/playlist.m3u8",
-      "created_at": "2026-10-20T07:03:43.607391+00:00",
-      "views": 0,
-      "duration_seconds": 19,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/57/clip_01M5C1X5GH8WST71103M9B7CHN/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: khjojj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "khjojj",
-      "description": "Momento destacado de MrStivenTC. khjojj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
