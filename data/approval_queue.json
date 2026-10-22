@@ -1,7 +1,7 @@
 [
   {
     "status": "pending_approval",
-    "score": 55.06,
+    "score": 54.0,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5H6DPCDCC3B59SYX0MFAKAY",
@@ -38,7 +38,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 54.35,
+    "score": 53.5,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5H9EXKRNDMFB7JAJ68YF78M",
@@ -46,7 +46,7 @@
       "title": "ME CONTROLE",
       "url": "https://clips.kick.com/clips/e8/clip_01M5H9EXKRNDMFB7JAJ68YF78M/playlist.m3u8",
       "created_at": "2026-10-22T07:52:00.040154+00:00",
-      "views": 12,
+      "views": 14,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -75,7 +75,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 53.35,
+    "score": 52.54,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5HBB731G0N09ZAW1H19BN4X",
@@ -83,7 +83,7 @@
       "title": "eut",
       "url": "https://clips.kick.com/clips/40/clip_01M5HBB731G0N09ZAW1H19BN4X/playlist.m3u8",
       "created_at": "2026-10-22T08:24:25.460897+00:00",
-      "views": 4,
+      "views": 5,
       "duration_seconds": 23,
       "rights_status": "unknown",
       "metadata": {
@@ -112,7 +112,81 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.82,
+    "score": 51.96,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5HAFR83WEB1AE5C77HHCJHB",
+      "streamer": "RDJavi",
+      "title": "el don le da un galleta a Javi",
+      "url": "https://clips.kick.com/clips/5e/clip_01M5HAFR83WEB1AE5C77HHCJHB/playlist.m3u8",
+      "created_at": "2026-10-22T08:11:16.944443+00:00",
+      "views": 4,
+      "duration_seconds": 15,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/5e/clip_01M5HAFR83WEB1AE5C77HHCJHB/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: el don le da un galleta a Javi. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "el don le da un galleta a Javi",
+      "description": "Momento destacado de RDJavi. el don le da un galleta a Javi.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.94,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5HAH95563A281JEBXDKY8NW",
+      "streamer": "RDJavi",
+      "title": "robert",
+      "url": "https://clips.kick.com/clips/fb/clip_01M5HAH95563A281JEBXDKY8NW/playlist.m3u8",
+      "created_at": "2026-10-22T08:10:01.345414+00:00",
+      "views": 4,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/fb/clip_01M5HAH95563A281JEBXDKY8NW/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: robert. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "robert",
+      "description": "Momento destacado de RDJavi. robert.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.71,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5H9VP3D1YB193RX46QWH6XH",
@@ -149,7 +223,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.35,
+    "score": 51.58,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5H8G0NX20RXGGM97MM4G16T",
@@ -157,7 +231,7 @@
       "title": "jajajajajjajaja",
       "url": "https://clips.kick.com/clips/e0/clip_01M5H8G0NX20RXGGM97MM4G16T/playlist.m3u8",
       "created_at": "2026-10-22T07:34:54.811531+00:00",
-      "views": 4,
+      "views": 5,
       "duration_seconds": 55,
       "rights_status": "unknown",
       "metadata": {
@@ -186,71 +260,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.19,
+    "score": 50.89,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5HAFR83WEB1AE5C77HHCJHB",
-      "streamer": "RDJavi",
-      "title": "el don le da un galleta a Javi",
-      "url": "https://clips.kick.com/clips/5e/clip_01M5HAFR83WEB1AE5C77HHCJHB/playlist.m3u8",
-      "created_at": "2026-10-22T08:11:16.944443+00:00",
-      "views": 2,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/5e/clip_01M5HAFR83WEB1AE5C77HHCJHB/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: el don le da un galleta a Javi. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "el don le da un galleta a Javi",
-      "description": "Momento destacado de RDJavi. el don le da un galleta a Javi.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.17,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5HAH95563A281JEBXDKY8NW",
-      "streamer": "RDJavi",
-      "title": "robert",
-      "url": "https://clips.kick.com/clips/fb/clip_01M5HAH95563A281JEBXDKY8NW/playlist.m3u8",
-      "created_at": "2026-10-22T08:10:01.345414+00:00",
-      "views": 2,
+      "source_id": "clip_01M5H4W1YJAA2AT3EKVHFMWMKK",
+      "streamer": "WestCOL",
+      "title": "5",
+      "url": "https://clips.kick.com/clips/47/clip_01M5H4W1YJAA2AT3EKVHFMWMKK/playlist.m3u8",
+      "created_at": "2026-10-22T06:31:04.572911+00:00",
+      "views": 7,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "rdjavi"
+        "kick_slug": "westcol"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/fb/clip_01M5HAH95563A281JEBXDKY8NW/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: robert. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/47/clip_01M5H4W1YJAA2AT3EKVHFMWMKK/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: 5. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "robert",
-      "description": "Momento destacado de RDJavi. robert.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "title": "5",
+      "description": "Momento destacado de WestCOL. 5.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#RDJavi",
+        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -260,44 +297,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.98,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5HBWY0JGC3GXZPFMA4T0Q3P",
-      "streamer": "MrStivenTC",
-      "title": "igigig",
-      "url": "https://clips.kick.com/clips/93/clip_01M5HBWY0JGC3GXZPFMA4T0Q3P/playlist.m3u8",
-      "created_at": "2026-10-22T08:34:58.555749+00:00",
-      "views": 0,
-      "duration_seconds": 18,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/93/clip_01M5HBWY0JGC3GXZPFMA4T0Q3P/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: igigig. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "igigig",
-      "description": "Momento destacado de MrStivenTC. igigig.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.96,
+    "score": 50.85,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5H9Y4HBJNK8J5SBQWQST94X",
@@ -334,34 +334,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.93,
+    "score": 50.84,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5H4W1YJAA2AT3EKVHFMWMKK",
-      "streamer": "WestCOL",
-      "title": "5",
-      "url": "https://clips.kick.com/clips/47/clip_01M5H4W1YJAA2AT3EKVHFMWMKK/playlist.m3u8",
-      "created_at": "2026-10-22T06:31:04.572911+00:00",
-      "views": 7,
-      "duration_seconds": 30,
+      "source_id": "clip_01M5HBWY0JGC3GXZPFMA4T0Q3P",
+      "streamer": "MrStivenTC",
+      "title": "igigig",
+      "url": "https://clips.kick.com/clips/93/clip_01M5HBWY0JGC3GXZPFMA4T0Q3P/playlist.m3u8",
+      "created_at": "2026-10-22T08:34:58.555749+00:00",
+      "views": 1,
+      "duration_seconds": 18,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "westcol"
+        "kick_slug": "mrstiventc"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/47/clip_01M5H4W1YJAA2AT3EKVHFMWMKK/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: 5. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/93/clip_01M5HBWY0JGC3GXZPFMA4T0Q3P/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: igigig. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "5",
-      "description": "Momento destacado de WestCOL. 5.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "igigig",
+      "description": "Momento destacado de MrStivenTC. igigig.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#WestCOL",
+        "#MrStivenTC",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
