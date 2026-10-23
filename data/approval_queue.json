@@ -1,16 +1,53 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.86,
+    "score": 54.43,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5ND23SEFZ1QMXMHR5MVXYBW",
+      "source_id": "clip_01M5NGRVTDWSMVPP8ZJG08JE24",
       "streamer": "WestCOL",
-      "title": "clip",
-      "url": "https://clips.kick.com/clips/73/clip_01M5ND23SEFZ1QMXMHR5MVXYBW/playlist.m3u8",
-      "created_at": "2026-10-23T22:11:27.673774+00:00",
+      "title": "carlos se vuelve stremer",
+      "url": "https://clips.kick.com/clips/84/clip_01M5NGRVTDWSMVPP8ZJG08JE24/playlist.m3u8",
+      "created_at": "2026-10-23T23:17:34.012290+00:00",
+      "views": 8,
+      "duration_seconds": 32,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/84/clip_01M5NGRVTDWSMVPP8ZJG08JE24/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: carlos se vuelve stremer. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "carlos se vuelve stremer",
+      "description": "Momento destacado de WestCOL. carlos se vuelve stremer.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.25,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5NEKZ7W8490EJ559MBXM8XK",
+      "streamer": "WestCOL",
+      "title": "jajaja",
+      "url": "https://clips.kick.com/clips/9c/clip_01M5NEKZ7W8490EJ559MBXM8XK/playlist.m3u8",
+      "created_at": "2026-10-23T22:39:27.680558+00:00",
       "views": 3,
-      "duration_seconds": 15,
+      "duration_seconds": 49,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "westcol"
@@ -18,13 +55,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/73/clip_01M5ND23SEFZ1QMXMHR5MVXYBW/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/9c/clip_01M5NEKZ7W8490EJ559MBXM8XK/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: clip. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: jajaja. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "clip",
-      "description": "Momento destacado de WestCOL. clip.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "jajaja",
+      "description": "Momento destacado de WestCOL. jajaja.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -38,126 +75,15 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.7,
+    "score": 52.24,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5NBF77KXGZ5VW3YSP37BTSE",
+      "source_id": "clip_01M5NG062A3Z6DK36BCGKHZGJS",
       "streamer": "WestCOL",
-      "title": ".",
-      "url": "https://clips.kick.com/clips/c4/clip_01M5NBF77KXGZ5VW3YSP37BTSE/playlist.m3u8",
-      "created_at": "2026-10-23T21:44:31.175674+00:00",
-      "views": 4,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/c4/clip_01M5NBF77KXGZ5VW3YSP37BTSE/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: .. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": ".",
-      "description": "Momento destacado de WestCOL. ..\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.66,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5NDXWQQ493CH1G1V1N2JPDC",
-      "streamer": "Willito",
-      "title": "seusda",
-      "url": "https://clips.kick.com/clips/01/clip_01M5NDXWQQ493CH1G1V1N2JPDC/playlist.m3u8",
-      "created_at": "2026-10-23T22:26:13.397418+00:00",
+      "title": "West tira un facto del padel",
+      "url": "https://clips.kick.com/clips/1e/clip_01M5NG062A3Z6DK36BCGKHZGJS/playlist.m3u8",
+      "created_at": "2026-10-23T23:03:36.896588+00:00",
       "views": 2,
-      "duration_seconds": 29,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/01/clip_01M5NDXWQQ493CH1G1V1N2JPDC/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: seusda. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "seusda",
-      "description": "Momento destacado de Willito. seusda.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.61,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5NCCBPX1X9FPRW27B9P6TNK",
-      "streamer": "WestCOL",
-      "title": "Ii",
-      "url": "https://clips.kick.com/clips/76/clip_01M5NCCBPX1X9FPRW27B9P6TNK/playlist.m3u8",
-      "created_at": "2026-10-23T21:59:09.718381+00:00",
-      "views": 3,
-      "duration_seconds": 50,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/76/clip_01M5NCCBPX1X9FPRW27B9P6TNK/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: Ii. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Ii",
-      "description": "Momento destacado de WestCOL. Ii.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.57,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5NC7YQD5YX7VYW6J4FZ10JJ",
-      "streamer": "WestCOL",
-      "title": "sgo",
-      "url": "https://clips.kick.com/clips/c0/clip_01M5NC7YQD5YX7VYW6J4FZ10JJ/playlist.m3u8",
-      "created_at": "2026-10-23T21:57:14.944504+00:00",
-      "views": 3,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -166,13 +92,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/c0/clip_01M5NC7YQD5YX7VYW6J4FZ10JJ/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/1e/clip_01M5NG062A3Z6DK36BCGKHZGJS/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: sgo. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: West tira un facto del padel. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "sgo",
-      "description": "Momento destacado de WestCOL. sgo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "West tira un facto del padel",
+      "description": "Momento destacado de WestCOL. West tira un facto del padel.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -186,34 +112,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.43,
+    "score": 52.19,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5NBVM0TXM27X0TSVRWF2QG4",
-      "streamer": "WestCOL",
-      "title": "sgo",
-      "url": "https://clips.kick.com/clips/94/clip_01M5NBVM0TXM27X0TSVRWF2QG4/playlist.m3u8",
-      "created_at": "2026-10-23T21:50:15.053594+00:00",
-      "views": 3,
-      "duration_seconds": 22,
+      "source_id": "clip_01M5NHWPYAM29B4QZA1VWGSTC0",
+      "streamer": "MrStivenTC",
+      "title": "www",
+      "url": "https://clips.kick.com/clips/3b/clip_01M5NHWPYAM29B4QZA1VWGSTC0/playlist.m3u8",
+      "created_at": "2026-10-23T23:35:24.442109+00:00",
+      "views": 0,
+      "duration_seconds": 38,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "westcol"
+        "kick_slug": "mrstiventc"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/94/clip_01M5NBVM0TXM27X0TSVRWF2QG4/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: sgo. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/3b/clip_01M5NHWPYAM29B4QZA1VWGSTC0/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: www. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "sgo",
-      "description": "Momento destacado de WestCOL. sgo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "www",
+      "description": "Momento destacado de MrStivenTC. www.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#WestCOL",
+        "#MrStivenTC",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -223,14 +149,199 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.16,
+    "score": 52.19,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M5NEEMSKQAGJP5GCWRJTHWTV",
+      "source_id": "clip_01M5NHWX36RSC3KB6K51G523P9",
+      "streamer": "MrStivenTC",
+      "title": "es",
+      "url": "https://clips.kick.com/clips/0b/clip_01M5NHWX36RSC3KB6K51G523P9/playlist.m3u8",
+      "created_at": "2026-10-23T23:35:22.768014+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/0b/clip_01M5NHWX36RSC3KB6K51G523P9/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: es. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "es",
+      "description": "Momento destacado de MrStivenTC. es.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.19,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5NHWJEFM0JGGM45XA9E7ZB6",
+      "streamer": "MrStivenTC",
+      "title": "uyyy",
+      "url": "https://clips.kick.com/clips/6f/clip_01M5NHWJEFM0JGGM45XA9E7ZB6/playlist.m3u8",
+      "created_at": "2026-10-23T23:35:20.830148+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/6f/clip_01M5NHWJEFM0JGGM45XA9E7ZB6/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: uyyy. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "uyyy",
+      "description": "Momento destacado de MrStivenTC. uyyy.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.19,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5NHW74S20NCPWTQW052EGYK",
+      "streamer": "MrStivenTC",
+      "title": "dtygfyhbnnn",
+      "url": "https://clips.kick.com/clips/e2/clip_01M5NHW74S20NCPWTQW052EGYK/playlist.m3u8",
+      "created_at": "2026-10-23T23:35:13.606728+00:00",
+      "views": 0,
+      "duration_seconds": 26,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/e2/clip_01M5NHW74S20NCPWTQW052EGYK/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: dtygfyhbnnn. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "dtygfyhbnnn",
+      "description": "Momento destacado de MrStivenTC. dtygfyhbnnn.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.18,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5NHW6P53B4TN2WGDXCVSJ4Z",
+      "streamer": "MrStivenTC",
+      "title": "gggg",
+      "url": "https://clips.kick.com/clips/0f/clip_01M5NHW6P53B4TN2WGDXCVSJ4Z/playlist.m3u8",
+      "created_at": "2026-10-23T23:35:03.292407+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/0f/clip_01M5NHW6P53B4TN2WGDXCVSJ4Z/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: gggg. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "gggg",
+      "description": "Momento destacado de MrStivenTC. gggg.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.18,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5NHW6T83G860ZT2G672NSR9",
+      "streamer": "MrStivenTC",
+      "title": "cndjd",
+      "url": "https://clips.kick.com/clips/25/clip_01M5NHW6T83G860ZT2G672NSR9/playlist.m3u8",
+      "created_at": "2026-10-23T23:34:59.962793+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/25/clip_01M5NHW6T83G860ZT2G672NSR9/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: cndjd. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "cndjd",
+      "description": "Momento destacado de MrStivenTC. cndjd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.18,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M5NHVNBQYC6PDWS42DRB6GT7",
       "streamer": "WestCOL",
-      "title": "westcol le dice que tiene que darle en la camara",
-      "url": "https://clips.kick.com/clips/7b/clip_01M5NEEMSKQAGJP5GCWRJTHWTV/playlist.m3u8",
-      "created_at": "2026-10-23T22:36:05.206133+00:00",
+      "title": "dd",
+      "url": "https://clips.kick.com/clips/d4/clip_01M5NHVNBQYC6PDWS42DRB6GT7/playlist.m3u8",
+      "created_at": "2026-10-23T23:34:46.166536+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -240,128 +351,17 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/7b/clip_01M5NEEMSKQAGJP5GCWRJTHWTV/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/d4/clip_01M5NHVNBQYC6PDWS42DRB6GT7/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: westcol le dice que tiene que darle en la camara. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: dd. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "westcol le dice que tiene que darle en la camara",
-      "description": "Momento destacado de WestCOL. westcol le dice que tiene que darle en la camara.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "dd",
+      "description": "Momento destacado de WestCOL. dd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
         "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.16,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5NEFNRTHZNXMM47PPZKMXY1",
-      "streamer": "Willito",
-      "title": "zzs",
-      "url": "https://clips.kick.com/clips/0d/clip_01M5NEFNRTHZNXMM47PPZKMXY1/playlist.m3u8",
-      "created_at": "2026-10-23T22:35:59.983579+00:00",
-      "views": 0,
-      "duration_seconds": 22,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/0d/clip_01M5NEFNRTHZNXMM47PPZKMXY1/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: zzs. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "zzs",
-      "description": "Momento destacado de Willito. zzs.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.15,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5NEEEANH8ZSV153D62EFG64",
-      "streamer": "Willito",
-      "title": "si",
-      "url": "https://clips.kick.com/clips/83/clip_01M5NEEEANH8ZSV153D62EFG64/playlist.m3u8",
-      "created_at": "2026-10-23T22:35:22.667541+00:00",
-      "views": 0,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/83/clip_01M5NEEEANH8ZSV153D62EFG64/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: si. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "si",
-      "description": "Momento destacado de Willito. si.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.08,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5NE8NHSAG1RHTMYVNAQNMPD",
-      "streamer": "Willito",
-      "title": "xddddd AJJSJHAJ",
-      "url": "https://clips.kick.com/clips/0f/clip_01M5NE8NHSAG1RHTMYVNAQNMPD/playlist.m3u8",
-      "created_at": "2026-10-23T22:32:17.494076+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/0f/clip_01M5NE8NHSAG1RHTMYVNAQNMPD/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: xddddd AJJSJHAJ. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "xddddd AJJSJHAJ",
-      "description": "Momento destacado de Willito. xddddd AJJSJHAJ.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
