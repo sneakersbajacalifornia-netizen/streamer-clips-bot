@@ -1,7 +1,7 @@
 [
   {
     "status": "pending_approval",
-    "score": 51.68,
+    "score": 50.54,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5Y8KAHCZYDXZBJ3RWT9W8PD",
@@ -38,7 +38,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.97,
+    "score": 49.86,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5Y6F2BWJH62HKX4VFVZKN29",
@@ -75,7 +75,44 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.82,
+    "score": 48.54,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "title": "EL ATAQUEEE!!!",
+      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "created_at": "2022-04-03T21:00:47+00:00",
+      "views": 767654,
+      "duration_seconds": 50,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "AlexNyan83"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "hook": "No vas a creer lo que pasó con Rubius.",
+      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: EL ATAQUEEE!!!. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "EL ATAQUEEE!!!",
+      "description": "Momento destacado de Rubius. EL ATAQUEEE!!!.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Rubius",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 47.84,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5XW1CWTS0ZPWAGW8NVR9RPV",
@@ -112,34 +149,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.54,
+    "score": 47.69,
     "candidate": {
       "source": "twitch",
-      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "title": "EL ATAQUEEE!!!",
-      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "created_at": "2022-04-03T21:00:47+00:00",
-      "views": 767652,
-      "duration_seconds": 50,
+      "source_id": "DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "streamer": "AuronPlay",
+      "title": "Te imaginas que lo mato con esto tio? :v",
+      "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "created_at": "2023-10-12T20:31:39+00:00",
+      "views": 469688,
+      "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
-        "creator_name": "AlexNyan83"
+        "creator_name": "tomssquall247"
       }
     },
     "content_plan": {
       "source": "twitch",
-      "source_url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "hook": "No vas a creer lo que pasó con Rubius.",
-      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: EL ATAQUEEE!!!. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "streamer": "AuronPlay",
+      "hook": "No vas a creer lo que pasó con AuronPlay.",
+      "narration": "Este momento de AuronPlay está llamando la atención. El clip muestra: Te imaginas que lo mato con esto tio? :v. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "EL ATAQUEEE!!!",
-      "description": "Momento destacado de Rubius. EL ATAQUEEE!!!.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
+      "title": "Te imaginas que lo mato con esto tio? :v",
+      "description": "Momento destacado de AuronPlay. Te imaginas que lo mato con esto tio? :v.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #AuronPlay #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#Rubius",
+        "#AuronPlay",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -149,7 +186,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.38,
+    "score": 47.52,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M5XHDBP46YJDCF4YBCWWMW6T",
@@ -186,34 +223,71 @@
   },
   {
     "status": "pending_approval",
-    "score": 47.69,
+    "score": 46.81,
     "candidate": {
       "source": "twitch",
-      "source_id": "DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
-      "streamer": "AuronPlay",
-      "title": "Te imaginas que lo mato con esto tio? :v",
-      "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
-      "created_at": "2023-10-12T20:31:39+00:00",
-      "views": 469686,
+      "source_id": "AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
+      "streamer": "Ibai",
+      "title": "Ibai Meets Messi on Livestream For The First Time",
+      "url": "https://www.twitch.tv/ibai/clip/AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
+      "created_at": "2021-08-11T11:06:17+00:00",
+      "views": 283657,
+      "duration_seconds": 29,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "EVOQU_"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/ibai/clip/AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
+      "streamer": "Ibai",
+      "hook": "No vas a creer lo que pasó con Ibai.",
+      "narration": "Este momento de Ibai está llamando la atención. El clip muestra: Ibai Meets Messi on Livestream For The First Time. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Ibai Meets Messi on Livestream For The First Time",
+      "description": "Momento destacado de Ibai. Ibai Meets Messi on Livestream For The First Time.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Ibai #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Ibai",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 46.68,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
+      "streamer": "Rubius",
+      "title": "No, así no era JAJAJ",
+      "url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
+      "created_at": "2023-10-19T19:50:35+00:00",
+      "views": 263275,
       "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
-        "creator_name": "tomssquall247"
+        "creator_name": "Puty6656"
       }
     },
     "content_plan": {
       "source": "twitch",
-      "source_url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
-      "streamer": "AuronPlay",
-      "hook": "No vas a creer lo que pasó con AuronPlay.",
-      "narration": "Este momento de AuronPlay está llamando la atención. El clip muestra: Te imaginas que lo mato con esto tio? :v. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
+      "streamer": "Rubius",
+      "hook": "No vas a creer lo que pasó con Rubius.",
+      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: No, así no era JAJAJ. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Te imaginas que lo mato con esto tio? :v",
-      "description": "Momento destacado de AuronPlay. Te imaginas que lo mato con esto tio? :v.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #AuronPlay #Streamer",
+      "title": "No, así no era JAJAJ",
+      "description": "Momento destacado de Rubius. No, así no era JAJAJ.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#AuronPlay",
+        "#Rubius",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -223,34 +297,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 47.44,
+    "score": 46.68,
     "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5XVCEB6DQ7X6RFK28S9J79G",
-      "streamer": "WestCOL",
-      "title": "El cameramen de Temo no aprende con Westcol",
-      "url": "https://clips.kick.com/clips/44/clip_01M5XVCEB6DQ7X6RFK28S9J79G/playlist.m3u8",
-      "created_at": "2026-10-27T04:56:35.354841+00:00",
-      "views": 2,
-      "duration_seconds": 24,
+      "source": "twitch",
+      "source_id": "AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
+      "streamer": "TheGrefg",
+      "title": "Forsen",
+      "url": "https://www.twitch.tv/thegrefg/clip/AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
+      "created_at": "2023-01-29T21:33:29+00:00",
+      "views": 263124,
+      "duration_seconds": 27,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "westcol"
+        "creator_name": "Killpop_VII"
       }
     },
     "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/44/clip_01M5XVCEB6DQ7X6RFK28S9J79G/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: El cameramen de Temo no aprende con Westcol. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/thegrefg/clip/AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
+      "streamer": "TheGrefg",
+      "hook": "No vas a creer lo que pasó con TheGrefg.",
+      "narration": "Este momento de TheGrefg está llamando la atención. El clip muestra: Forsen. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "El cameramen de Temo no aprende con Westcol",
-      "description": "Momento destacado de WestCOL. El cameramen de Temo no aprende con Westcol.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "Forsen",
+      "description": "Momento destacado de TheGrefg. Forsen.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #TheGrefg #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#WestCOL",
+        "#TheGrefg",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -260,108 +334,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 47.41,
+    "score": 46.59,
     "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5XXNWXTXDN46SHQH1RQ9Z57",
-      "streamer": "MrStivenTC",
-      "title": "mr sruva",
-      "url": "https://clips.kick.com/clips/2d/clip_01M5XXNWXTXDN46SHQH1RQ9Z57/playlist.m3u8",
-      "created_at": "2026-10-27T05:35:22.989142+00:00",
-      "views": 0,
-      "duration_seconds": 30,
+      "source": "twitch",
+      "source_id": "SwissVivaciousPeafowlNotLikeThis-MigFHPNh68d01Kxk",
+      "streamer": "Ibai",
+      "title": "RUBIUS VS XQC",
+      "url": "https://www.twitch.tv/ibai/clip/SwissVivaciousPeafowlNotLikeThis-MigFHPNh68d01Kxk",
+      "created_at": "2022-06-25T20:26:33+00:00",
+      "views": 249554,
+      "duration_seconds": 20,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "mrstiventc"
+        "creator_name": "FreeStylerFC"
       }
     },
     "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/2d/clip_01M5XXNWXTXDN46SHQH1RQ9Z57/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: mr sruva. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/ibai/clip/SwissVivaciousPeafowlNotLikeThis-MigFHPNh68d01Kxk",
+      "streamer": "Ibai",
+      "hook": "No vas a creer lo que pasó con Ibai.",
+      "narration": "Este momento de Ibai está llamando la atención. El clip muestra: RUBIUS VS XQC. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "mr sruva",
-      "description": "Momento destacado de MrStivenTC. mr sruva.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "title": "RUBIUS VS XQC",
+      "description": "Momento destacado de Ibai. RUBIUS VS XQC.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Ibai #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 47.33,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5XXCNMPBCD4EJP99WZ3Q47P",
-      "streamer": "MrStivenTC",
-      "title": "vi",
-      "url": "https://clips.kick.com/clips/4b/clip_01M5XXCNMPBCD4EJP99WZ3Q47P/playlist.m3u8",
-      "created_at": "2026-10-27T05:30:45.361468+00:00",
-      "views": 0,
-      "duration_seconds": 40,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/4b/clip_01M5XXCNMPBCD4EJP99WZ3Q47P/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: vi. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "vi",
-      "description": "Momento destacado de MrStivenTC. vi.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 47.24,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M5XX12HRCZGYXJM9G7EZ34MK",
-      "streamer": "MrStivenTC",
-      "title": "bi",
-      "url": "https://clips.kick.com/clips/31/clip_01M5XX12HRCZGYXJM9G7EZ34MK/playlist.m3u8",
-      "created_at": "2026-10-27T05:25:43.474582+00:00",
-      "views": 0,
-      "duration_seconds": 41,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/31/clip_01M5XX12HRCZGYXJM9G7EZ34MK/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: bi. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "bi",
-      "description": "Momento destacado de MrStivenTC. bi.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
+        "#Ibai",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
