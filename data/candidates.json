@@ -1,6 +1,108 @@
 [
   {
-    "score": 51.12,
+    "score": 52.01,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63VBX50E9G4GR0QMDRZ5HR1",
+      "streamer": "MrStivenTC",
+      "title": "jksl",
+      "url": "https://clips.kick.com/clips/93/clip_01M63VBX50E9G4GR0QMDRZ5HR1/playlist.m3u8",
+      "created_at": "2026-10-29T12:50:30.517695+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    }
+  },
+  {
+    "score": 51.94,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63V3HHERT69PW6RN9SQASX3",
+      "streamer": "MrStivenTC",
+      "title": "ndkdm",
+      "url": "https://clips.kick.com/clips/f1/clip_01M63V3HHERT69PW6RN9SQASX3/playlist.m3u8",
+      "created_at": "2026-10-29T12:47:23.584322+00:00",
+      "views": 0,
+      "duration_seconds": 46,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    }
+  },
+  {
+    "score": 51.63,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63TAA0B9Q597DAF8FGS8N3S",
+      "streamer": "RDJavi",
+      "title": "churria",
+      "url": "https://clips.kick.com/clips/7a/clip_01M63TAA0B9Q597DAF8FGS8N3S/playlist.m3u8",
+      "created_at": "2026-10-29T12:32:06.275098+00:00",
+      "views": 1,
+      "duration_seconds": 24,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    }
+  },
+  {
+    "score": 51.46,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63ST8NMPVYMWZFCYAD1PMKW",
+      "streamer": "RDJavi",
+      "title": "ni un chin",
+      "url": "https://clips.kick.com/clips/4a/clip_01M63ST8NMPVYMWZFCYAD1PMKW/playlist.m3u8",
+      "created_at": "2026-10-29T12:23:51.451560+00:00",
+      "views": 0,
+      "duration_seconds": 27,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    }
+  },
+  {
+    "score": 51.38,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63SK7MMY88ZQ17D9DVVDSBM",
+      "streamer": "RDJavi",
+      "title": "/",
+      "url": "https://clips.kick.com/clips/f3/clip_01M63SK7MMY88ZQ17D9DVVDSBM/playlist.m3u8",
+      "created_at": "2026-10-29T12:19:41.916421+00:00",
+      "views": 1,
+      "duration_seconds": 25,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    }
+  },
+  {
+    "score": 50.23,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63HFR7XP1A6ABJJNNTE5EHC",
+      "streamer": "RDJavi",
+      "title": "sw",
+      "url": "https://clips.kick.com/clips/21/clip_01M63HFR7XP1A6ABJJNNTE5EHC/playlist.m3u8",
+      "created_at": "2026-10-29T09:57:44.912432+00:00",
+      "views": 4,
+      "duration_seconds": 42,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    }
+  },
+  {
+    "score": 49.78,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M63JSYQW288SRWQCKVYWE7J2",
@@ -17,24 +119,7 @@
     }
   },
   {
-    "score": 50.66,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M63HFR7XP1A6ABJJNNTE5EHC",
-      "streamer": "RDJavi",
-      "title": "sw",
-      "url": "https://clips.kick.com/clips/21/clip_01M63HFR7XP1A6ABJJNNTE5EHC/playlist.m3u8",
-      "created_at": "2026-10-29T09:57:44.912432+00:00",
-      "views": 2,
-      "duration_seconds": 42,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    }
-  },
-  {
-    "score": 50.14,
+    "score": 48.82,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M63J0M6PJK85WR914119J74Z",
@@ -42,7 +127,7 @@
       "title": "ytss",
       "url": "https://clips.kick.com/clips/bc/clip_01M63J0M6PJK85WR914119J74Z/playlist.m3u8",
       "created_at": "2026-10-29T10:07:37.707729+00:00",
-      "views": 0,
+      "views": 1,
       "duration_seconds": 36,
       "rights_status": "unknown",
       "metadata": {
@@ -51,7 +136,24 @@
     }
   },
   {
-    "score": 49.35,
+    "score": 48.54,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "title": "EL ATAQUEEE!!!",
+      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "created_at": "2022-04-03T21:00:47+00:00",
+      "views": 767867,
+      "duration_seconds": 50,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "AlexNyan83"
+      }
+    }
+  },
+  {
+    "score": 48.19,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M637AD74PRDNMHFC3JAM8KHF",
@@ -68,7 +170,24 @@
     }
   },
   {
-    "score": 48.66,
+    "score": 47.69,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "streamer": "AuronPlay",
+      "title": "Te imaginas que lo mato con esto tio? :v",
+      "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
+      "created_at": "2023-10-12T20:31:39+00:00",
+      "views": 469906,
+      "duration_seconds": 25,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "tomssquall247"
+      }
+    }
+  },
+  {
+    "score": 47.41,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M63DGARQE2TJXTCMQHVF6Z97",
@@ -85,7 +204,7 @@
     }
   },
   {
-    "score": 48.66,
+    "score": 47.41,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M63DHWGKWZZ4BD11BRP2ZFC2",
@@ -102,24 +221,7 @@
     }
   },
   {
-    "score": 48.54,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "title": "EL ATAQUEEE!!!",
-      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "created_at": "2022-04-03T21:00:47+00:00",
-      "views": 767866,
-      "duration_seconds": 50,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "AlexNyan83"
-      }
-    }
-  },
-  {
-    "score": 48.52,
+    "score": 47.28,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M63D48EBHH9XWQ79SPGC2J4P",
@@ -136,7 +238,7 @@
     }
   },
   {
-    "score": 48.16,
+    "score": 47.07,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M63209DVNYXN2C0NCN645VGV",
@@ -149,40 +251,6 @@
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "westcol"
-      }
-    }
-  },
-  {
-    "score": 48.07,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M636EKTQT74N9WSC6G4PBDDY",
-      "streamer": "RDJavi",
-      "title": "ukiuki pas",
-      "url": "https://clips.kick.com/clips/94/clip_01M636EKTQT74N9WSC6G4PBDDY/playlist.m3u8",
-      "created_at": "2026-10-29T06:44:53.700423+00:00",
-      "views": 4,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    }
-  },
-  {
-    "score": 47.69,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
-      "streamer": "AuronPlay",
-      "title": "Te imaginas que lo mato con esto tio? :v",
-      "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
-      "created_at": "2023-10-12T20:31:39+00:00",
-      "views": 469905,
-      "duration_seconds": 25,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "tomssquall247"
       }
     }
   },
@@ -212,7 +280,7 @@
       "title": "No, así no era JAJAJ",
       "url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
       "created_at": "2023-10-19T19:50:35+00:00",
-      "views": 263430,
+      "views": 263431,
       "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
@@ -272,23 +340,6 @@
     }
   },
   {
-    "score": 46.38,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M6361THRSX07GTT95YNG6M8V",
-      "streamer": "Willito",
-      "title": "cuando llegue a Nueva York",
-      "url": "https://clips.kick.com/clips/21/clip_01M6361THRSX07GTT95YNG6M8V/playlist.m3u8",
-      "created_at": "2026-10-29T06:39:10.683513+00:00",
-      "views": 1,
-      "duration_seconds": 19,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    }
-  },
-  {
     "score": 46.31,
     "candidate": {
       "source": "twitch",
@@ -297,7 +348,7 @@
       "title": "🐇 🪐 Hola soy Ari, voy a estar jugando Tortilla y mas noche otra Ari me acompañara. Basicamente seriamos dos Aris.",
       "url": "https://www.twitch.tv/arigameplays/clip/GiantSuspiciousPassionfruitPartyTime-8S2OaE-X7JCC7kP4",
       "created_at": "2022-11-08T23:49:45+00:00",
-      "views": 212748,
+      "views": 212750,
       "duration_seconds": 26,
       "rights_status": "unknown",
       "metadata": {
@@ -314,7 +365,7 @@
       "title": "TortillaLand 2 Ep 7 || Van a pasar cositas",
       "url": "https://www.twitch.tv/auronplay/clip/HeartlessWildLampStinkyCheese-DjorYUPQRVXzcUWi",
       "created_at": "2022-08-21T18:16:55+00:00",
-      "views": 202198,
+      "views": 202201,
       "duration_seconds": 26,
       "rights_status": "unknown",
       "metadata": {
@@ -336,40 +387,6 @@
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "094tony"
-      }
-    }
-  },
-  {
-    "score": 46.14,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M63HDAVRX9567FYMPMWT2ZM1",
-      "streamer": "RDJavi",
-      "title": "sd",
-      "url": "https://clips.kick.com/clips/cf/clip_01M63HDAVRX9567FYMPMWT2ZM1/playlist.m3u8",
-      "created_at": "2026-10-29T09:56:46.201741+00:00",
-      "views": 3,
-      "duration_seconds": 59,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    }
-  },
-  {
-    "score": 46.05,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M632H18FAVZX89JDMBJ9Y70X",
-      "streamer": "MrStivenTC",
-      "title": "aaa",
-      "url": "https://clips.kick.com/clips/f4/clip_01M632H18FAVZX89JDMBJ9Y70X/playlist.m3u8",
-      "created_at": "2026-10-29T05:36:16.138006+00:00",
-      "views": 2,
-      "duration_seconds": 40,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
       }
     }
   },
@@ -399,28 +416,11 @@
       "title": "illop0rn ??? JAJAJAJ",
       "url": "https://www.twitch.tv/illojuan/clip/SolidKawaiiRavenJKanStyle-qxCFe3Ca0ZGDRTwA",
       "created_at": "2022-11-22T17:23:56+00:00",
-      "views": 173787,
+      "views": 173788,
       "duration_seconds": 27,
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "morenokny"
-      }
-    }
-  },
-  {
-    "score": 45.92,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M63232E34CAYRP4RYTYRHA1N",
-      "streamer": "MrStivenTC",
-      "title": "ajajsjsja",
-      "url": "https://clips.kick.com/clips/6c/clip_01M63232E34CAYRP4RYTYRHA1N/playlist.m3u8",
-      "created_at": "2026-10-29T05:28:31.117244+00:00",
-      "views": 2,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
       }
     }
   },
@@ -438,23 +438,6 @@
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "TLA_cLoud"
-      }
-    }
-  },
-  {
-    "score": 45.9,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M62PTYDH3C6DEJBX3VSYC7YS",
-      "streamer": "WestCOL",
-      "title": "jk",
-      "url": "https://clips.kick.com/clips/a6/clip_01M62PTYDH3C6DEJBX3VSYC7YS/playlist.m3u8",
-      "created_at": "2026-10-29T02:12:26.670459+00:00",
-      "views": 15,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
       }
     }
   },
@@ -501,7 +484,7 @@
       "title": "Squid Craft Games 2 día 1",
       "url": "https://www.twitch.tv/auronplay/clip/SucculentWealthyWerewolfFreakinStinkin-W2wT2Of1Lie4xcLQ",
       "created_at": "2023-02-28T15:48:17+00:00",
-      "views": 151417,
+      "views": 151418,
       "duration_seconds": 26,
       "rights_status": "unknown",
       "metadata": {
@@ -535,7 +518,7 @@
       "title": "Learning english because of the new viewers",
       "url": "https://www.twitch.tv/illojuan/clip/BoredBetterEaglePMSTwin",
       "created_at": "2021-01-19T14:57:44+00:00",
-      "views": 149912,
+      "views": 149913,
       "duration_seconds": 14,
       "rights_status": "unknown",
       "metadata": {
@@ -561,23 +544,6 @@
     }
   },
   {
-    "score": 45.66,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M633M63TD5ZYVPS0SGQSH29R",
-      "streamer": "MrStivenTC",
-      "title": "Jkkk",
-      "url": "https://clips.kick.com/clips/ed/clip_01M633M63TD5ZYVPS0SGQSH29R/playlist.m3u8",
-      "created_at": "2026-10-29T05:55:48.650704+00:00",
-      "views": 1,
-      "duration_seconds": 15,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    }
-  },
-  {
     "score": 45.65,
     "candidate": {
       "source": "twitch",
@@ -586,7 +552,7 @@
       "title": "💥 DÍA MUY GORDO 💥 - GTA 6 LEAKEADO, DROP DE OG'S Y VUELVEN LOS SIMS 1, DOMINGO DE RESURRECCIÓN 💦",
       "url": "https://www.twitch.tv/illojuan/clip/PeacefulPlausibleSalamanderCeilingCat-TiJzXnd5jXdIA_Ye",
       "created_at": "2022-09-18T15:55:57+00:00",
-      "views": 145108,
+      "views": 145109,
       "duration_seconds": 39,
       "rights_status": "unknown",
       "metadata": {
@@ -620,28 +586,11 @@
       "title": "El timing",
       "url": "https://www.twitch.tv/illojuan/clip/ShyAffluentCobblerMau5-l6GTgwxnEszTPPLo",
       "created_at": "2023-05-21T17:20:31+00:00",
-      "views": 142073,
+      "views": 142074,
       "duration_seconds": 31,
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "SW0RD5M4N"
-      }
-    }
-  },
-  {
-    "score": 45.6,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M633CP928Z432WGX8S2A15Z0",
-      "streamer": "MrStivenTC",
-      "title": "Si",
-      "url": "https://clips.kick.com/clips/3e/clip_01M633CP928Z432WGX8S2A15Z0/playlist.m3u8",
-      "created_at": "2026-10-29T05:52:02.861951+00:00",
-      "views": 0,
-      "duration_seconds": 33,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
       }
     }
   },
@@ -676,6 +625,23 @@
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "Greyscaled"
+      }
+    }
+  },
+  {
+    "score": 45.53,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63HDAVRX9567FYMPMWT2ZM1",
+      "streamer": "RDJavi",
+      "title": "sd",
+      "url": "https://clips.kick.com/clips/cf/clip_01M63HDAVRX9567FYMPMWT2ZM1/playlist.m3u8",
+      "created_at": "2026-10-29T09:56:46.201741+00:00",
+      "views": 5,
+      "duration_seconds": 59,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
       }
     }
   },
@@ -722,7 +688,7 @@
       "title": "LA Berenjena JAJAJAJA",
       "url": "https://www.twitch.tv/auronplay/clip/BetterGrotesquePigeonBrokeBack-J_y4ojrgeqDpag_n",
       "created_at": "2023-11-13T16:34:23+00:00",
-      "views": 133060,
+      "views": 133061,
       "duration_seconds": 55,
       "rights_status": "unknown",
       "metadata": {
@@ -739,7 +705,7 @@
       "title": "PERDON, PERDON! (bis)",
       "url": "https://www.twitch.tv/illojuan/clip/BrainySmoothSashimiPeteZarollTie",
       "created_at": "2021-01-06T20:24:49+00:00",
-      "views": 131346,
+      "views": 131347,
       "duration_seconds": 17,
       "rights_status": "unknown",
       "metadata": {
@@ -795,23 +761,6 @@
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "WhoIsDrevil"
-      }
-    }
-  },
-  {
-    "score": 45.36,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M632JBVTQ5P8426SC5P77J79",
-      "streamer": "MrStivenTC",
-      "title": "jcn",
-      "url": "https://clips.kick.com/clips/22/clip_01M632JBVTQ5P8426SC5P77J79/playlist.m3u8",
-      "created_at": "2026-10-29T05:37:25.216463+00:00",
-      "views": 1,
-      "duration_seconds": 18,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
       }
     }
   },
@@ -875,28 +824,11 @@
       "title": "IlloJuan Tells viewer how to help step sister",
       "url": "https://www.twitch.tv/illojuan/clip/WimpyInventiveLasagnaVoHiYo",
       "created_at": "2021-01-18T16:56:53+00:00",
-      "views": 118896,
+      "views": 118897,
       "duration_seconds": 37,
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "HeatRyan"
-      }
-    }
-  },
-  {
-    "score": 45.29,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M632905C18078QVK773YJD5W",
-      "streamer": "WestCOL",
-      "title": "metaverso",
-      "url": "https://clips.kick.com/clips/fa/clip_01M632905C18078QVK773YJD5W/playlist.m3u8",
-      "created_at": "2026-10-29T05:32:47.102908+00:00",
-      "views": 1,
-      "duration_seconds": 24,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
       }
     }
   },
@@ -937,13 +869,30 @@
   {
     "score": 45.23,
     "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M6361THRSX07GTT95YNG6M8V",
+      "streamer": "Willito",
+      "title": "cuando llegue a Nueva York",
+      "url": "https://clips.kick.com/clips/21/clip_01M6361THRSX07GTT95YNG6M8V/playlist.m3u8",
+      "created_at": "2026-10-29T06:39:10.683513+00:00",
+      "views": 1,
+      "duration_seconds": 19,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    }
+  },
+  {
+    "score": 45.23,
+    "candidate": {
       "source": "twitch",
       "source_id": "DarlingSpotlessBeaverTwitchRaid-ERHmkC80sFABclZl",
       "streamer": "IlloJuan",
       "title": "MI PRIMER DÍA COMO CHICO KARMALAND 😎 - KARMALVND #1",
       "url": "https://www.twitch.tv/illojuan/clip/DarlingSpotlessBeaverTwitchRaid-ERHmkC80sFABclZl",
       "created_at": "2022-07-09T16:34:39+00:00",
-      "views": 114131,
+      "views": 114132,
       "duration_seconds": 26,
       "rights_status": "unknown",
       "metadata": {
@@ -1003,23 +952,6 @@
     }
   },
   {
-    "score": 45.19,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M631YZ7E31YE1W1EKJP3ZKFM",
-      "streamer": "WestCOL",
-      "title": "rompe la dieta",
-      "url": "https://clips.kick.com/clips/46/clip_01M631YZ7E31YE1W1EKJP3ZKFM/playlist.m3u8",
-      "created_at": "2026-10-29T05:26:46.228168+00:00",
-      "views": 1,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    }
-  },
-  {
     "score": 45.18,
     "candidate": {
       "source": "twitch",
@@ -1067,23 +999,6 @@
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "sleepydut"
-      }
-    }
-  },
-  {
-    "score": 45.11,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M631MQE0807HBJ1EJKGKCBZG",
-      "streamer": "WestCOL",
-      "title": "chingonbel",
-      "url": "https://clips.kick.com/clips/9e/clip_01M631MQE0807HBJ1EJKGKCBZG/playlist.m3u8",
-      "created_at": "2026-10-29T05:21:24.748437+00:00",
-      "views": 1,
-      "duration_seconds": 31,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
       }
     }
   },
@@ -1190,23 +1105,6 @@
     }
   },
   {
-    "score": 44.98,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M63HH3PEP216G890R12GMGT0",
-      "streamer": "RDJavi",
-      "title": "hrs",
-      "url": "https://clips.kick.com/clips/02/clip_01M63HH3PEP216G890R12GMGT0/playlist.m3u8",
-      "created_at": "2026-10-29T09:58:59.946985+00:00",
-      "views": 0,
-      "duration_seconds": 63,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    }
-  },
-  {
     "score": 44.97,
     "candidate": {
       "source": "twitch",
@@ -1224,19 +1122,36 @@
     }
   },
   {
-    "score": 44.96,
+    "score": 44.95,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M63158RD7NQB3XSFBKQ3Z2XA",
+      "source_id": "clip_01M632H18FAVZX89JDMBJ9Y70X",
       "streamer": "MrStivenTC",
-      "title": "dfdfff",
-      "url": "https://clips.kick.com/clips/0b/clip_01M63158RD7NQB3XSFBKQ3Z2XA/playlist.m3u8",
-      "created_at": "2026-10-29T05:12:18.237029+00:00",
-      "views": 1,
-      "duration_seconds": 30,
+      "title": "aaa",
+      "url": "https://clips.kick.com/clips/f4/clip_01M632H18FAVZX89JDMBJ9Y70X/playlist.m3u8",
+      "created_at": "2026-10-29T05:36:16.138006+00:00",
+      "views": 2,
+      "duration_seconds": 40,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "mrstiventc"
+      }
+    }
+  },
+  {
+    "score": 44.95,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M62PTYDH3C6DEJBX3VSYC7YS",
+      "streamer": "WestCOL",
+      "title": "jk",
+      "url": "https://clips.kick.com/clips/a6/clip_01M62PTYDH3C6DEJBX3VSYC7YS/playlist.m3u8",
+      "created_at": "2026-10-29T02:12:26.670459+00:00",
+      "views": 15,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
       }
     }
   },
@@ -1249,28 +1164,11 @@
       "title": "WTF???!!!",
       "url": "https://www.twitch.tv/illojuan/clip/ColorfulIronicOstrichStinkyCheese-F4408KsyyEz15-_4",
       "created_at": "2023-05-28T18:41:06+00:00",
-      "views": 1687101,
+      "views": 1687103,
       "duration_seconds": 8,
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "sneezenyawn"
-      }
-    }
-  },
-  {
-    "score": 44.89,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M63H9KS1Y1A359YQJ0S54D7S",
-      "streamer": "RDJavi",
-      "title": "ds",
-      "url": "https://clips.kick.com/clips/c3/clip_01M63H9KS1Y1A359YQJ0S54D7S/playlist.m3u8",
-      "created_at": "2026-10-29T09:54:22.869304+00:00",
-      "views": 1,
-      "duration_seconds": 68,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
       }
     }
   },
@@ -1283,28 +1181,11 @@
       "title": "🐇 🪐 TORTILLITA (MUCHA CONSTRUCCIÓN), MORTUARY ASSISTAN CON LA ABICHU",
       "url": "https://www.twitch.tv/arigameplays/clip/CalmExpensiveClipzMingLee-sjd-R_gb0f9b93i6",
       "created_at": "2022-11-07T01:33:55+00:00",
-      "views": 93410,
+      "views": 93411,
       "duration_seconds": 29,
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "chicoAstronauta_"
-      }
-    }
-  },
-  {
-    "score": 44.88,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M630S3TSVYKM5PFE2XQQY565",
-      "streamer": "WestCOL",
-      "title": "5 en efe",
-      "url": "https://clips.kick.com/clips/1d/clip_01M630S3TSVYKM5PFE2XQQY565/playlist.m3u8",
-      "created_at": "2026-10-29T05:07:06.257654+00:00",
-      "views": 0,
-      "duration_seconds": 32,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
       }
     }
   },
@@ -1394,6 +1275,23 @@
     }
   },
   {
+    "score": 44.83,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M63232E34CAYRP4RYTYRHA1N",
+      "streamer": "MrStivenTC",
+      "title": "ajajsjsja",
+      "url": "https://clips.kick.com/clips/6c/clip_01M63232E34CAYRP4RYTYRHA1N/playlist.m3u8",
+      "created_at": "2026-10-29T05:28:31.117244+00:00",
+      "views": 2,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    }
+  },
+  {
     "score": 44.82,
     "candidate": {
       "source": "twitch",
@@ -1411,23 +1309,6 @@
     }
   },
   {
-    "score": 44.77,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M63GYQGBAE1NP8QZCPKC5E0F",
-      "streamer": "RDJavi",
-      "title": "w",
-      "url": "https://clips.kick.com/clips/b6/clip_01M63GYQGBAE1NP8QZCPKC5E0F/playlist.m3u8",
-      "created_at": "2026-10-29T09:48:28.463092+00:00",
-      "views": 0,
-      "duration_seconds": 71,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    }
-  },
-  {
     "score": 44.75,
     "candidate": {
       "source": "twitch",
@@ -1436,7 +1317,7 @@
       "title": "foton",
       "url": "https://www.twitch.tv/auronplay/clip/ProductiveBlightedSquidSaltBae-UHgKX-St56s932rS",
       "created_at": "2023-09-21T20:05:44+00:00",
-      "views": 86667,
+      "views": 86668,
       "duration_seconds": 28,
       "rights_status": "unknown",
       "metadata": {
@@ -1453,7 +1334,7 @@
       "title": "🐇 🪐 STREAM DE TORTILLA CORTITO PORQUE ME VOY AL DOC DESPUES (NO ZINGS)",
       "url": "https://www.twitch.tv/arigameplays/clip/CrispyBitterOrangeKlappa-eEFGWEUFeXLsRWnn",
       "created_at": "2022-11-07T17:55:43+00:00",
-      "views": 85724,
+      "views": 85725,
       "duration_seconds": 28,
       "rights_status": "unknown",
       "metadata": {
@@ -1581,57 +1462,6 @@
     }
   },
   {
-    "score": 44.59,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M62ZSHN0NDXJRWFH5VAVQEWQ",
-      "streamer": "MrStivenTC",
-      "title": "aa",
-      "url": "https://clips.kick.com/clips/db/clip_01M62ZSHN0NDXJRWFH5VAVQEWQ/playlist.m3u8",
-      "created_at": "2026-10-29T04:48:32.617808+00:00",
-      "views": 0,
-      "duration_seconds": 53,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    }
-  },
-  {
-    "score": 44.58,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M62ZS7SY9HV5JQ1G1GMFD092",
-      "streamer": "MrStivenTC",
-      "title": "mr stiven",
-      "url": "https://clips.kick.com/clips/43/clip_01M62ZS7SY9HV5JQ1G1GMFD092/playlist.m3u8",
-      "created_at": "2026-10-29T04:48:13.400664+00:00",
-      "views": 0,
-      "duration_seconds": 45,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    }
-  },
-  {
-    "score": 44.58,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M62ZRSQTP5AWFFCG81510XRY",
-      "streamer": "MrStivenTC",
-      "title": "mr stiven",
-      "url": "https://clips.kick.com/clips/34/clip_01M62ZRSQTP5AWFFCG81510XRY/playlist.m3u8",
-      "created_at": "2026-10-29T04:47:59.517788+00:00",
-      "views": 0,
-      "duration_seconds": 51,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    }
-  },
-  {
     "score": 44.58,
     "candidate": {
       "source": "twitch",
@@ -1657,7 +1487,7 @@
       "title": "🥊🥊 LA VELADA DEL AÑO EN TORTILLALAND 🥊🥊",
       "url": "https://www.twitch.tv/auronplay/clip/AcceptableMoistFennelPeteZarollTie--s5KmFPIx-S8rsfw",
       "created_at": "2022-10-02T21:09:52+00:00",
-      "views": 78382,
+      "views": 78383,
       "duration_seconds": 26,
       "rights_status": "unknown",
       "metadata": {
@@ -1691,11 +1521,181 @@
       "title": "LA PELADA DEL AÑO 1: AURON VS 8CHO",
       "url": "https://www.twitch.tv/auronplay/clip/ClumsyGoldenNoodleTheTarFu-mQ70IbuahtJIxLLi",
       "created_at": "2023-10-03T18:26:28+00:00",
-      "views": 78120,
+      "views": 78121,
       "duration_seconds": 26,
       "rights_status": "unknown",
       "metadata": {
         "creator_name": "janeterraa"
+      }
+    }
+  },
+  {
+    "score": 44.55,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "HappyProudPanNotLikeThis-pxsmtE_qCUfjhMF8",
+      "streamer": "AriGameplays",
+      "title": "XD",
+      "url": "https://www.twitch.tv/arigameplays/clip/HappyProudPanNotLikeThis-pxsmtE_qCUfjhMF8",
+      "created_at": "2022-01-25T20:43:29+00:00",
+      "views": 77398,
+      "duration_seconds": 12,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "isabelmsf"
+      }
+    }
+  },
+  {
+    "score": 44.55,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M633M63TD5ZYVPS0SGQSH29R",
+      "streamer": "MrStivenTC",
+      "title": "Jkkk",
+      "url": "https://clips.kick.com/clips/ed/clip_01M633M63TD5ZYVPS0SGQSH29R/playlist.m3u8",
+      "created_at": "2026-10-29T05:55:48.650704+00:00",
+      "views": 1,
+      "duration_seconds": 15,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    }
+  },
+  {
+    "score": 44.55,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "SuperYawningSangFutureMan-Hi6Jo677WN3IXRiw",
+      "streamer": "Ibai",
+      "title": "Ibai twitch record",
+      "url": "https://www.twitch.tv/ibai/clip/SuperYawningSangFutureMan-Hi6Jo677WN3IXRiw",
+      "created_at": "2025-07-26T18:20:30+00:00",
+      "views": 77041,
+      "duration_seconds": 29,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "Learn_CPR"
+      }
+    }
+  },
+  {
+    "score": 44.55,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "KitschyGentleCrocodilePipeHype-sAsBlmNqbDSgWZON",
+      "streamer": "Ibai",
+      "title": "LMAOOOOO",
+      "url": "https://www.twitch.tv/ibai/clip/KitschyGentleCrocodilePipeHype-sAsBlmNqbDSgWZON",
+      "created_at": "2022-04-10T20:29:03+00:00",
+      "views": 76995,
+      "duration_seconds": 19,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "mprrz"
+      }
+    }
+  },
+  {
+    "score": 44.54,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "ConsiderateRoughSandwichNotATK-0ejlCoV655xgJkOp",
+      "streamer": "AuronPlay",
+      "title": "Yo cuando me despierto temprano y me replanteo mi existencia por 5 minutos mientras miro una chancla",
+      "url": "https://www.twitch.tv/auronplay/clip/ConsiderateRoughSandwichNotATK-0ejlCoV655xgJkOp",
+      "created_at": "2023-10-19T10:52:44+00:00",
+      "views": 76789,
+      "duration_seconds": 27,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "janeterraa"
+      }
+    }
+  },
+  {
+    "score": 44.52,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "SplendidChillyCucumberWow-5wVxzsy2Pf26Oenu",
+      "streamer": "AriGameplays",
+      "title": "🐇 🪐 ARILUCHADORA EN LA VELADA DEL AÑO DE TORTILLALAND | #HARIWEEN | HOY DIA DE SUBS A LAS 7PM EN DISCORD PARA VER UNA PELI",
+      "url": "https://www.twitch.tv/arigameplays/clip/SplendidChillyCucumberWow-5wVxzsy2Pf26Oenu",
+      "created_at": "2022-10-02T16:15:40+00:00",
+      "views": 75881,
+      "duration_seconds": 28,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "muck017"
+      }
+    }
+  },
+  {
+    "score": 44.51,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "IncredulousSassyDumplingsChocolateRain-phLyyJvl_McBkPwD",
+      "streamer": "Rubius",
+      "title": "Bugs leves nomas",
+      "url": "https://www.twitch.tv/rubius/clip/IncredulousSassyDumplingsChocolateRain-phLyyJvl_McBkPwD",
+      "created_at": "2023-09-01T20:45:35+00:00",
+      "views": 75515,
+      "duration_seconds": 26,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "DarkWitch45"
+      }
+    }
+  },
+  {
+    "score": 44.51,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "ScaryGiftedCattleDoggo-oRHj9m0F9HhuCRwc",
+      "streamer": "AuronPlay",
+      "title": "TortillaLand 2 Ep 30 || EVENTO: EL FIN DEL PROFETA",
+      "url": "https://www.twitch.tv/auronplay/clip/ScaryGiftedCattleDoggo-oRHj9m0F9HhuCRwc",
+      "created_at": "2022-09-18T18:05:49+00:00",
+      "views": 75453,
+      "duration_seconds": 26,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "janeterraa"
+      }
+    }
+  },
+  {
+    "score": 44.51,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "PlacidVibrantCamelCeilingCat-D40fZnuWJfwAG1sD",
+      "streamer": "AuronPlay",
+      "title": "SI GRITAS PIERDES, EL VIDEOJUEGO (GOTY)",
+      "url": "https://www.twitch.tv/auronplay/clip/PlacidVibrantCamelCeilingCat-D40fZnuWJfwAG1sD",
+      "created_at": "2023-10-27T20:25:36+00:00",
+      "views": 75371,
+      "duration_seconds": 54,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "janeterraa"
+      }
+    }
+  },
+  {
+    "score": 44.49,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M633CP928Z432WGX8S2A15Z0",
+      "streamer": "MrStivenTC",
+      "title": "Si",
+      "url": "https://clips.kick.com/clips/3e/clip_01M633CP928Z432WGX8S2A15Z0/playlist.m3u8",
+      "created_at": "2026-10-29T05:52:02.861951+00:00",
+      "views": 0,
+      "duration_seconds": 33,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
       }
     }
   }
