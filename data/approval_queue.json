@@ -1,108 +1,34 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.76,
+    "score": 55.13,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M65J0TPTSZFT8Y1HB03Y4PNS",
-      "streamer": "Willito",
-      "title": "LA CAGO",
-      "url": "https://clips.kick.com/clips/ad/clip_01M65J0TPTSZFT8Y1HB03Y4PNS/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:39.015948+00:00",
-      "views": 2,
-      "duration_seconds": 28,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/ad/clip_01M65J0TPTSZFT8Y1HB03Y4PNS/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: LA CAGO. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "LA CAGO",
-      "description": "Momento destacado de Willito. LA CAGO.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.11,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M65J63V5MQ07DJ7ECZC9NNX6",
-      "streamer": "Willito",
-      "title": "jay",
-      "url": "https://clips.kick.com/clips/94/clip_01M65J63V5MQ07DJ7ECZC9NNX6/playlist.m3u8",
-      "created_at": "2026-10-30T04:48:21.951873+00:00",
-      "views": 1,
-      "duration_seconds": 26,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/94/clip_01M65J63V5MQ07DJ7ECZC9NNX6/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: jay. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jay",
-      "description": "Momento destacado de Willito. jay.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.11,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M65J5XJ64WDC4APS3KKMWB8D",
-      "streamer": "Willito",
-      "title": "tt",
-      "url": "https://clips.kick.com/clips/b6/clip_01M65J5XJ64WDC4APS3KKMWB8D/playlist.m3u8",
-      "created_at": "2026-10-30T04:48:19.311807+00:00",
-      "views": 0,
+      "source_id": "clip_01M65MVM7TEMK099DB5613FZQ2",
+      "streamer": "RDJavi",
+      "title": "el mejor",
+      "url": "https://clips.kick.com/clips/75/clip_01M65MVM7TEMK099DB5613FZQ2/playlist.m3u8",
+      "created_at": "2026-10-30T05:35:04.716945+00:00",
+      "views": 12,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "willito"
+        "kick_slug": "rdjavi"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/b6/clip_01M65J5XJ64WDC4APS3KKMWB8D/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: tt. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/75/clip_01M65MVM7TEMK099DB5613FZQ2/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: el mejor. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "tt",
-      "description": "Momento destacado de Willito. tt.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "title": "el mejor",
+      "description": "Momento destacado de RDJavi. el mejor.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#Willito",
+        "#RDJavi",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -112,16 +38,16 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.07,
+    "score": 52.2,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M65J22N4VNX6N47M8A4MGSM8",
+      "source_id": "clip_01M65NR4KNVFD5PD5WVG9KBY7H",
       "streamer": "Willito",
-      "title": "bibbs",
-      "url": "https://clips.kick.com/clips/96/clip_01M65J22N4VNX6N47M8A4MGSM8/playlist.m3u8",
-      "created_at": "2026-10-30T04:46:14.752048+00:00",
+      "title": "nfysjx",
+      "url": "https://clips.kick.com/clips/41/clip_01M65NR4KNVFD5PD5WVG9KBY7H/playlist.m3u8",
+      "created_at": "2026-10-30T05:50:39.631060+00:00",
       "views": 0,
-      "duration_seconds": 31,
+      "duration_seconds": 22,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "willito"
@@ -129,13 +55,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/96/clip_01M65J22N4VNX6N47M8A4MGSM8/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/41/clip_01M65NR4KNVFD5PD5WVG9KBY7H/playlist.m3u8",
       "streamer": "Willito",
       "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: bibbs. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: nfysjx. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "bibbs",
-      "description": "Momento destacado de Willito. bibbs.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "title": "nfysjx",
+      "description": "Momento destacado de Willito. nfysjx.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -149,14 +75,14 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.06,
+    "score": 52.2,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M65J155E28YYT8SS1KFK6P6S",
+      "source_id": "clip_01M65NPJBN7RVBR9TX3FD0RRP5",
       "streamer": "Willito",
-      "title": "cjhc",
-      "url": "https://clips.kick.com/clips/f4/clip_01M65J155E28YYT8SS1KFK6P6S/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:56.451644+00:00",
+      "title": "upp",
+      "url": "https://clips.kick.com/clips/e9/clip_01M65NPJBN7RVBR9TX3FD0RRP5/playlist.m3u8",
+      "created_at": "2026-10-30T05:50:33.453104+00:00",
       "views": 0,
       "duration_seconds": 15,
       "rights_status": "unknown",
@@ -166,13 +92,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/f4/clip_01M65J155E28YYT8SS1KFK6P6S/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/e9/clip_01M65NPJBN7RVBR9TX3FD0RRP5/playlist.m3u8",
       "streamer": "Willito",
       "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: cjhc. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: upp. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "cjhc",
-      "description": "Momento destacado de Willito. cjhc.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "title": "upp",
+      "description": "Momento destacado de Willito. upp.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -186,16 +112,16 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.06,
+    "score": 52.19,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M65J0CJXWMHKRWC1549TVXVV",
+      "source_id": "clip_01M65NQ8QXG0K0RR90MA05358K",
       "streamer": "Willito",
-      "title": "Jaja",
-      "url": "https://clips.kick.com/clips/70/clip_01M65J0CJXWMHKRWC1549TVXVV/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:51.957031+00:00",
+      "title": "gg",
+      "url": "https://clips.kick.com/clips/e9/clip_01M65NQ8QXG0K0RR90MA05358K/playlist.m3u8",
+      "created_at": "2026-10-30T05:50:24.730152+00:00",
       "views": 0,
-      "duration_seconds": 27,
+      "duration_seconds": 17,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "willito"
@@ -203,13 +129,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/70/clip_01M65J0CJXWMHKRWC1549TVXVV/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/e9/clip_01M65NQ8QXG0K0RR90MA05358K/playlist.m3u8",
       "streamer": "Willito",
       "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: Jaja. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: gg. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Jaja",
-      "description": "Momento destacado de Willito. Jaja.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "title": "gg",
+      "description": "Momento destacado de Willito. gg.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -223,51 +149,14 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.06,
+    "score": 52.18,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M65J0MDF9JJFS27DXKNJKMHB",
+      "source_id": "clip_01M65NPCMQV5M70C734TJFTAX0",
       "streamer": "Willito",
-      "title": "a",
-      "url": "https://clips.kick.com/clips/b0/clip_01M65J0MDF9JJFS27DXKNJKMHB/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:48.411647+00:00",
-      "views": 1,
-      "duration_seconds": 12,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/b0/clip_01M65J0MDF9JJFS27DXKNJKMHB/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: a. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "a",
-      "description": "Momento destacado de Willito. a.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.06,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M65J0S4W09A4ZY1M7767BFT3",
-      "streamer": "Willito",
-      "title": "LMAO WTH",
-      "url": "https://clips.kick.com/clips/d3/clip_01M65J0S4W09A4ZY1M7767BFT3/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:44.586471+00:00",
+      "title": "aass",
+      "url": "https://clips.kick.com/clips/7f/clip_01M65NPCMQV5M70C734TJFTAX0/playlist.m3u8",
+      "created_at": "2026-10-30T05:49:54.480645+00:00",
       "views": 1,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -277,13 +166,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/d3/clip_01M65J0S4W09A4ZY1M7767BFT3/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/7f/clip_01M65NPCMQV5M70C734TJFTAX0/playlist.m3u8",
       "streamer": "Willito",
       "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: LMAO WTH. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: aass. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "LMAO WTH",
-      "description": "Momento destacado de Willito. LMAO WTH.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "title": "aass",
+      "description": "Momento destacado de Willito. aass.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -297,51 +186,14 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.06,
+    "score": 52.18,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M65J0N494BZ8AHPJK54YKKGY",
+      "source_id": "clip_01M65NNWRS7MZPW21M70P8XGYB",
       "streamer": "Willito",
-      "title": "..",
-      "url": "https://clips.kick.com/clips/e4/clip_01M65J0N494BZ8AHPJK54YKKGY/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:43.564235+00:00",
-      "views": 1,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/e4/clip_01M65J0N494BZ8AHPJK54YKKGY/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: ... La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "..",
-      "description": "Momento destacado de Willito. ...\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.05,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M65J0QNPNWE2BMVC06NS2MHG",
-      "streamer": "Willito",
-      "title": "xd",
-      "url": "https://clips.kick.com/clips/fb/clip_01M65J0QNPNWE2BMVC06NS2MHG/playlist.m3u8",
-      "created_at": "2026-10-30T04:45:26.245993+00:00",
+      "title": "tristre",
+      "url": "https://clips.kick.com/clips/be/clip_01M65NNWRS7MZPW21M70P8XGYB/playlist.m3u8",
+      "created_at": "2026-10-30T05:49:52.586073+00:00",
       "views": 0,
       "duration_seconds": 30,
       "rights_status": "unknown",
@@ -351,13 +203,161 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/fb/clip_01M65J0QNPNWE2BMVC06NS2MHG/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/be/clip_01M65NNWRS7MZPW21M70P8XGYB/playlist.m3u8",
       "streamer": "Willito",
       "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: xd. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: tristre. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "xd",
-      "description": "Momento destacado de Willito. xd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "title": "tristre",
+      "description": "Momento destacado de Willito. tristre.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Willito",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.18,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M65NPDP1ESTF6FAEZRGMB8W8",
+      "streamer": "Willito",
+      "title": "kjk",
+      "url": "https://clips.kick.com/clips/00/clip_01M65NPDP1ESTF6FAEZRGMB8W8/playlist.m3u8",
+      "created_at": "2026-10-30T05:49:42.257088+00:00",
+      "views": 0,
+      "duration_seconds": 42,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/00/clip_01M65NPDP1ESTF6FAEZRGMB8W8/playlist.m3u8",
+      "streamer": "Willito",
+      "hook": "No vas a creer lo que pasó con Willito.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: kjk. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "kjk",
+      "description": "Momento destacado de Willito. kjk.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Willito",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.18,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M65NP65VX1TPH843AXVN3S72",
+      "streamer": "Willito",
+      "title": "cc",
+      "url": "https://clips.kick.com/clips/08/clip_01M65NP65VX1TPH843AXVN3S72/playlist.m3u8",
+      "created_at": "2026-10-30T05:49:33.693311+00:00",
+      "views": 0,
+      "duration_seconds": 48,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/08/clip_01M65NP65VX1TPH843AXVN3S72/playlist.m3u8",
+      "streamer": "Willito",
+      "hook": "No vas a creer lo que pasó con Willito.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: cc. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "cc",
+      "description": "Momento destacado de Willito. cc.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Willito",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.18,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M65NNZNQ8JX7FR095QAME382",
+      "streamer": "Willito",
+      "title": "gg",
+      "url": "https://clips.kick.com/clips/20/clip_01M65NNZNQ8JX7FR095QAME382/playlist.m3u8",
+      "created_at": "2026-10-30T05:49:29.797018+00:00",
+      "views": 0,
+      "duration_seconds": 34,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/20/clip_01M65NNZNQ8JX7FR095QAME382/playlist.m3u8",
+      "streamer": "Willito",
+      "hook": "No vas a creer lo que pasó con Willito.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: gg. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "gg",
+      "description": "Momento destacado de Willito. gg.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Willito",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.17,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M65NNZDT8WNWPVPQB8Y9GJAG",
+      "streamer": "Willito",
+      "title": "lol",
+      "url": "https://clips.kick.com/clips/89/clip_01M65NNZDT8WNWPVPQB8Y9GJAG/playlist.m3u8",
+      "created_at": "2026-10-30T05:49:21.388390+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/89/clip_01M65NNZDT8WNWPVPQB8Y9GJAG/playlist.m3u8",
+      "streamer": "Willito",
+      "hook": "No vas a creer lo que pasó con Willito.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: lol. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "lol",
+      "description": "Momento destacado de Willito. lol.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
