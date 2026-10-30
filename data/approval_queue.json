@@ -1,7 +1,44 @@
 [
   {
     "status": "pending_approval",
-    "score": 51.98,
+    "score": 51.2,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M679B2BX8BC3HA3Y041T7HN2",
+      "streamer": "MrStivenTC",
+      "title": "ahora habla con los pajaros",
+      "url": "https://clips.kick.com/clips/dc/clip_01M679B2BX8BC3HA3Y041T7HN2/playlist.m3u8",
+      "created_at": "2026-10-30T20:54:45.814542+00:00",
+      "views": 0,
+      "duration_seconds": 51,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/dc/clip_01M679B2BX8BC3HA3Y041T7HN2/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: ahora habla con los pajaros. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "ahora habla con los pajaros",
+      "description": "Momento destacado de MrStivenTC. ahora habla con los pajaros.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.82,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M678CF6BP0HK0M25R9A7SAG3",
@@ -38,7 +75,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.98,
+    "score": 50.82,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M678A6H5PQ0JTE1ZYDM6GXFK",
@@ -75,7 +112,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.65,
+    "score": 50.5,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M677F3SVM7DSBBEDNVRRG1GB",
@@ -112,7 +149,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.39,
+    "score": 50.3,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M6737QWDB8C646GDMQ2F1P86",
@@ -149,7 +186,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.34,
+    "score": 50.2,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M676FPNESA3CA6Y9BSYFQC9A",
@@ -186,7 +223,44 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.95,
+    "score": 49.95,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M673QKBBY4HC8PX3RG4TX5EM",
+      "streamer": "Willito",
+      "title": "5gt",
+      "url": "https://clips.kick.com/clips/b5/clip_01M673QKBBY4HC8PX3RG4TX5EM/playlist.m3u8",
+      "created_at": "2026-10-30T19:14:20.998984+00:00",
+      "views": 2,
+      "duration_seconds": 46,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/b5/clip_01M673QKBBY4HC8PX3RG4TX5EM/playlist.m3u8",
+      "streamer": "Willito",
+      "hook": "No vas a creer lo que pasó con Willito.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: 5gt. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "5gt",
+      "description": "Momento destacado de Willito. 5gt.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Willito",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 49.86,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M673E5SYAR7C3VJWBX81A5AP",
@@ -223,44 +297,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.35,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M673QKBBY4HC8PX3RG4TX5EM",
-      "streamer": "Willito",
-      "title": "5gt",
-      "url": "https://clips.kick.com/clips/b5/clip_01M673QKBBY4HC8PX3RG4TX5EM/playlist.m3u8",
-      "created_at": "2026-10-30T19:14:20.998984+00:00",
-      "views": 1,
-      "duration_seconds": 46,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/b5/clip_01M673QKBBY4HC8PX3RG4TX5EM/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: 5gt. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "5gt",
-      "description": "Momento destacado de Willito. 5gt.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.21,
+    "score": 49.12,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M673BA77DNZXVT3ZYY2DSAGP",
@@ -297,7 +334,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.19,
+    "score": 49.1,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M673920ZVTXVDMSEQ1SCBFZD",
@@ -325,43 +362,6 @@
         "#Shorts",
         "#Viral",
         "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 49.78,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M671YZKJ7KP764K6TRWDP9JZ",
-      "streamer": "WestCOL",
-      "title": "wes quiere hacer estrin com pereira",
-      "url": "https://clips.kick.com/clips/3f/clip_01M671YZKJ7KP764K6TRWDP9JZ/playlist.m3u8",
-      "created_at": "2026-10-30T18:44:54.501196+00:00",
-      "views": 0,
-      "duration_seconds": 41,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/3f/clip_01M671YZKJ7KP764K6TRWDP9JZ/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: wes quiere hacer estrin com pereira. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "wes quiere hacer estrin com pereira",
-      "description": "Momento destacado de WestCOL. wes quiere hacer estrin com pereira.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
