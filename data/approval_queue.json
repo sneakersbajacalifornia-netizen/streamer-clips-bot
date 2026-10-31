@@ -1,7 +1,44 @@
 [
   {
     "status": "pending_approval",
-    "score": 51.44,
+    "score": 54.11,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M697C88VZ3XG61VF3QWTPR1J",
+      "streamer": "WestCOL",
+      "title": "Jajaja",
+      "url": "https://clips.kick.com/clips/b6/clip_01M697C88VZ3XG61VF3QWTPR1J/playlist.m3u8",
+      "created_at": "2026-10-31T14:57:10.638502+00:00",
+      "views": 9,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/b6/clip_01M697C88VZ3XG61VF3QWTPR1J/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: Jajaja. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Jajaja",
+      "description": "Momento destacado de WestCOL. Jajaja.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.27,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M694CBSE2HQHW1YR6S2ASNK7",
@@ -38,7 +75,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.08,
+    "score": 48.96,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M690B31WX84XJCCW0972HHQC",
@@ -75,7 +112,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.03,
+    "score": 48.91,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M6906RBWF4MV7XQAYDT8XC5X",
@@ -112,7 +149,44 @@
   },
   {
     "status": "pending_approval",
-    "score": 49.56,
+    "score": 48.54,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "title": "EL ATAQUEEE!!!",
+      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "created_at": "2022-04-03T21:00:47+00:00",
+      "views": 768057,
+      "duration_seconds": 50,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "AlexNyan83"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
+      "streamer": "Rubius",
+      "hook": "No vas a creer lo que pasó con Rubius.",
+      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: EL ATAQUEEE!!!. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "EL ATAQUEEE!!!",
+      "description": "Momento destacado de Rubius. EL ATAQUEEE!!!.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Rubius",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 48.46,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M68YVS16NW5CZV867NVK2GYB",
@@ -149,43 +223,6 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.54,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "title": "EL ATAQUEEE!!!",
-      "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "created_at": "2022-04-03T21:00:47+00:00",
-      "views": 768055,
-      "duration_seconds": 50,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "AlexNyan83"
-      }
-    },
-    "content_plan": {
-      "source": "twitch",
-      "source_url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
-      "streamer": "Rubius",
-      "hook": "No vas a creer lo que pasó con Rubius.",
-      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: EL ATAQUEEE!!!. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "EL ATAQUEEE!!!",
-      "description": "Momento destacado de Rubius. EL ATAQUEEE!!!.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Rubius",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
     "score": 47.69,
     "candidate": {
       "source": "twitch",
@@ -194,7 +231,7 @@
       "title": "Te imaginas que lo mato con esto tio? :v",
       "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
       "created_at": "2023-10-12T20:31:39+00:00",
-      "views": 470040,
+      "views": 470043,
       "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
@@ -223,7 +260,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 47.5,
+    "score": 46.92,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M68MCVKBPAV8J30TJH5MF44J",
@@ -231,7 +268,7 @@
       "title": "no lucho jj",
       "url": "https://clips.kick.com/clips/b5/clip_01M68MCVKBPAV8J30TJH5MF44J/playlist.m3u8",
       "created_at": "2026-10-31T09:25:31.168643+00:00",
-      "views": 3,
+      "views": 4,
       "duration_seconds": 27,
       "rights_status": "unknown",
       "metadata": {
@@ -268,7 +305,7 @@
       "title": "Ibai Meets Messi on Livestream For The First Time",
       "url": "https://www.twitch.tv/ibai/clip/AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
       "created_at": "2021-08-11T11:06:17+00:00",
-      "views": 283700,
+      "views": 283701,
       "duration_seconds": 29,
       "rights_status": "unknown",
       "metadata": {
@@ -305,7 +342,7 @@
       "title": "No, así no era JAJAJ",
       "url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
       "created_at": "2023-10-19T19:50:35+00:00",
-      "views": 263571,
+      "views": 263573,
       "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
@@ -325,43 +362,6 @@
         "#Shorts",
         "#Viral",
         "#Rubius",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 46.68,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
-      "streamer": "TheGrefg",
-      "title": "Forsen",
-      "url": "https://www.twitch.tv/thegrefg/clip/AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
-      "created_at": "2023-01-29T21:33:29+00:00",
-      "views": 263170,
-      "duration_seconds": 27,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "Killpop_VII"
-      }
-    },
-    "content_plan": {
-      "source": "twitch",
-      "source_url": "https://www.twitch.tv/thegrefg/clip/AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
-      "streamer": "TheGrefg",
-      "hook": "No vas a creer lo que pasó con TheGrefg.",
-      "narration": "Este momento de TheGrefg está llamando la atención. El clip muestra: Forsen. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Forsen",
-      "description": "Momento destacado de TheGrefg. Forsen.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #TheGrefg #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#TheGrefg",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
