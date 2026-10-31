@@ -1,7 +1,44 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.64,
+    "score": 52.03,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M69M5WR0FBQF85D3KPPGGB1X",
+      "streamer": "WestCOL",
+      "title": "dddddd",
+      "url": "https://clips.kick.com/clips/d3/clip_01M69M5WR0FBQF85D3KPPGGB1X/playlist.m3u8",
+      "created_at": "2026-10-31T18:40:06.553682+00:00",
+      "views": 0,
+      "duration_seconds": 49,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/d3/clip_01M69M5WR0FBQF85D3KPPGGB1X/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: dddddd. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "dddddd",
+      "description": "Momento destacado de WestCOL. dddddd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.0,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M697C88VZ3XG61VF3QWTPR1J",
@@ -9,7 +46,7 @@
       "title": "Jajaja",
       "url": "https://clips.kick.com/clips/b6/clip_01M697C88VZ3XG61VF3QWTPR1J/playlist.m3u8",
       "created_at": "2026-10-31T14:57:10.638502+00:00",
-      "views": 15,
+      "views": 22,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -38,7 +75,81 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.46,
+    "score": 51.81,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M69KHATX27V5ZQ2JJVNN1H63",
+      "streamer": "WestCOL",
+      "title": "hhh",
+      "url": "https://clips.kick.com/clips/24/clip_01M69KHATX27V5ZQ2JJVNN1H63/playlist.m3u8",
+      "created_at": "2026-10-31T18:29:05.442542+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/24/clip_01M69KHATX27V5ZQ2JJVNN1H63/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: hhh. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "hhh",
+      "description": "Momento destacado de WestCOL. hhh.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.16,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M69HPMHKJB9NH3GP3W7CR807",
+      "streamer": "RDJavi",
+      "title": "RDjavi CLISP",
+      "url": "https://clips.kick.com/clips/b4/clip_01M69HPMHKJB9NH3GP3W7CR807/playlist.m3u8",
+      "created_at": "2026-10-31T17:57:08.767756+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/b4/clip_01M69HPMHKJB9NH3GP3W7CR807/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: RDjavi CLISP. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "RDjavi CLISP",
+      "description": "Momento destacado de RDJavi. RDjavi CLISP.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.08,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M69EHMD6Q177BH7QH6KPF2CQ",
@@ -75,7 +186,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.75,
+    "score": 49.4,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M69CGBEJNKEFDXQQ3JPVY75J",
@@ -120,7 +231,7 @@
       "title": "EL ATAQUEEE!!!",
       "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
       "created_at": "2022-04-03T21:00:47+00:00",
-      "views": 768067,
+      "views": 768076,
       "duration_seconds": 50,
       "rights_status": "unknown",
       "metadata": {
@@ -149,43 +260,6 @@
   },
   {
     "status": "pending_approval",
-    "score": 48.06,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M694CBSE2HQHW1YR6S2ASNK7",
-      "streamer": "RDJavi",
-      "title": "comoooooooooooooooo",
-      "url": "https://clips.kick.com/clips/91/clip_01M694CBSE2HQHW1YR6S2ASNK7/playlist.m3u8",
-      "created_at": "2026-10-31T14:04:16.355122+00:00",
-      "views": 1,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/91/clip_01M694CBSE2HQHW1YR6S2ASNK7/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: comoooooooooooooooo. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "comoooooooooooooooo",
-      "description": "Momento destacado de RDJavi. comoooooooooooooooo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
     "score": 47.69,
     "candidate": {
       "source": "twitch",
@@ -194,7 +268,7 @@
       "title": "Te imaginas que lo mato con esto tio? :v",
       "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
       "created_at": "2023-10-12T20:31:39+00:00",
-      "views": 470055,
+      "views": 470056,
       "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
@@ -223,16 +297,16 @@
   },
   {
     "status": "pending_approval",
-    "score": 46.85,
+    "score": 46.99,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M690B31WX84XJCCW0972HHQC",
+      "source_id": "clip_01M69M1MNRCRVAJKZGGS13HVD5",
       "streamer": "WestCOL",
-      "title": "lo peino antes de hacer titok",
-      "url": "https://clips.kick.com/clips/22/clip_01M690B31WX84XJCCW0972HHQC/playlist.m3u8",
-      "created_at": "2026-10-31T12:55:32.273965+00:00",
+      "title": "ddddddd",
+      "url": "https://clips.kick.com/clips/57/clip_01M69M1MNRCRVAJKZGGS13HVD5/playlist.m3u8",
+      "created_at": "2026-10-31T18:37:47.776805+00:00",
       "views": 0,
-      "duration_seconds": 44,
+      "duration_seconds": 62,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "westcol"
@@ -240,13 +314,13 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/22/clip_01M690B31WX84XJCCW0972HHQC/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/57/clip_01M69M1MNRCRVAJKZGGS13HVD5/playlist.m3u8",
       "streamer": "WestCOL",
       "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: lo peino antes de hacer titok. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: ddddddd. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "lo peino antes de hacer titok",
-      "description": "Momento destacado de WestCOL. lo peino antes de hacer titok.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "ddddddd",
+      "description": "Momento destacado de WestCOL. ddddddd.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
@@ -260,108 +334,34 @@
   },
   {
     "status": "pending_approval",
-    "score": 46.81,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
-      "streamer": "Ibai",
-      "title": "Ibai Meets Messi on Livestream For The First Time",
-      "url": "https://www.twitch.tv/ibai/clip/AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
-      "created_at": "2021-08-11T11:06:17+00:00",
-      "views": 283702,
-      "duration_seconds": 29,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "EVOQU_"
-      }
-    },
-    "content_plan": {
-      "source": "twitch",
-      "source_url": "https://www.twitch.tv/ibai/clip/AntediluvianDullBeanSoonerLater-BNJH4mWUq4t-s2Vq",
-      "streamer": "Ibai",
-      "hook": "No vas a creer lo que pasó con Ibai.",
-      "narration": "Este momento de Ibai está llamando la atención. El clip muestra: Ibai Meets Messi on Livestream For The First Time. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Ibai Meets Messi on Livestream For The First Time",
-      "description": "Momento destacado de Ibai. Ibai Meets Messi on Livestream For The First Time.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Ibai #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Ibai",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 46.81,
+    "score": 46.83,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M6906RBWF4MV7XQAYDT8XC5X",
-      "streamer": "WestCOL",
-      "title": "coreografía 👾",
-      "url": "https://clips.kick.com/clips/fa/clip_01M6906RBWF4MV7XQAYDT8XC5X/playlist.m3u8",
-      "created_at": "2026-10-31T12:52:58.180690+00:00",
-      "views": 0,
-      "duration_seconds": 38,
+      "source_id": "clip_01M694CBSE2HQHW1YR6S2ASNK7",
+      "streamer": "RDJavi",
+      "title": "comoooooooooooooooo",
+      "url": "https://clips.kick.com/clips/91/clip_01M694CBSE2HQHW1YR6S2ASNK7/playlist.m3u8",
+      "created_at": "2026-10-31T14:04:16.355122+00:00",
+      "views": 1,
+      "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "westcol"
+        "kick_slug": "rdjavi"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/fa/clip_01M6906RBWF4MV7XQAYDT8XC5X/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: coreografía 👾. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "source_url": "https://clips.kick.com/clips/91/clip_01M694CBSE2HQHW1YR6S2ASNK7/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: comoooooooooooooooo. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "coreografía 👾",
-      "description": "Momento destacado de WestCOL. coreografía 👾.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "title": "comoooooooooooooooo",
+      "description": "Momento destacado de RDJavi. comoooooooooooooooo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 46.68,
-    "candidate": {
-      "source": "twitch",
-      "source_id": "AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
-      "streamer": "Rubius",
-      "title": "No, así no era JAJAJ",
-      "url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
-      "created_at": "2023-10-19T19:50:35+00:00",
-      "views": 263580,
-      "duration_seconds": 25,
-      "rights_status": "unknown",
-      "metadata": {
-        "creator_name": "Puty6656"
-      }
-    },
-    "content_plan": {
-      "source": "twitch",
-      "source_url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
-      "streamer": "Rubius",
-      "hook": "No vas a creer lo que pasó con Rubius.",
-      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: No, así no era JAJAJ. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "No, así no era JAJAJ",
-      "description": "Momento destacado de Rubius. No, así no era JAJAJ.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Rubius",
+        "#RDJavi",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
