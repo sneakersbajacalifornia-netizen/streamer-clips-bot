@@ -1,7 +1,44 @@
 [
   {
     "status": "pending_approval",
-    "score": 51.86,
+    "score": 52.09,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M6E5M08J2YERSXYJG8CDMTYH",
+      "streamer": "MrStivenTC",
+      "title": "87",
+      "url": "https://clips.kick.com/clips/4d/clip_01M6E5M08J2YERSXYJG8CDMTYH/playlist.m3u8",
+      "created_at": "2026-11-02T13:05:58.464603+00:00",
+      "views": 0,
+      "duration_seconds": 36,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/4d/clip_01M6E5M08J2YERSXYJG8CDMTYH/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: 87. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "87",
+      "description": "Momento destacado de MrStivenTC. 87.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.88,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M6DMG3ETMVJZSD0GNRMAKQTH",
@@ -9,7 +46,7 @@
       "title": "wilito se queda sin dinero",
       "url": "https://clips.kick.com/clips/09/clip_01M6DMG3ETMVJZSD0GNRMAKQTH/playlist.m3u8",
       "created_at": "2026-11-02T08:03:35.658808+00:00",
-      "views": 21,
+      "views": 25,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -38,7 +75,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 49.2,
+    "score": 49.36,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M6DQ2HAX4CA01VNSJNCDWGX5",
@@ -46,7 +83,7 @@
       "title": "viendo al barsa y al real clasicoo",
       "url": "https://clips.kick.com/clips/ff/clip_01M6DQ2HAX4CA01VNSJNCDWGX5/playlist.m3u8",
       "created_at": "2026-11-02T08:48:02.395506+00:00",
-      "views": 2,
+      "views": 6,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -83,7 +120,7 @@
       "title": "EL ATAQUEEE!!!",
       "url": "https://www.twitch.tv/rubius/clip/GrotesqueElatedWormDuDudu-NUHHNeQ59CwJGqbV",
       "created_at": "2022-04-03T21:00:47+00:00",
-      "views": 768241,
+      "views": 768246,
       "duration_seconds": 50,
       "rights_status": "unknown",
       "metadata": {
@@ -112,80 +149,6 @@
   },
   {
     "status": "pending_approval",
-    "score": 47.84,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M6DMY287009Z1JMK148AA16H",
-      "streamer": "Willito",
-      "title": "wilito reaciona a wilito alucin 💲",
-      "url": "https://clips.kick.com/clips/84/clip_01M6DMY287009Z1JMK148AA16H/playlist.m3u8",
-      "created_at": "2026-11-02T08:11:49.969180+00:00",
-      "views": 0,
-      "duration_seconds": 31,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/84/clip_01M6DMY287009Z1JMK148AA16H/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: wilito reaciona a wilito alucin 💲. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "wilito reaciona a wilito alucin 💲",
-      "description": "Momento destacado de Willito. wilito reaciona a wilito alucin 💲.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 47.77,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M6DMQ571Y5FPKM7D578N48G4",
-      "streamer": "Willito",
-      "title": "wilito dice que tiene dawn",
-      "url": "https://clips.kick.com/clips/2f/clip_01M6DMQ571Y5FPKM7D578N48G4/playlist.m3u8",
-      "created_at": "2026-11-02T08:07:35.065382+00:00",
-      "views": 0,
-      "duration_seconds": 33,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "willito"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/2f/clip_01M6DMQ571Y5FPKM7D578N48G4/playlist.m3u8",
-      "streamer": "Willito",
-      "hook": "No vas a creer lo que pasó con Willito.",
-      "narration": "Este momento de Willito está llamando la atención. El clip muestra: wilito dice que tiene dawn. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "wilito dice que tiene dawn",
-      "description": "Momento destacado de Willito. wilito dice que tiene dawn.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Willito",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
     "score": 47.69,
     "candidate": {
       "source": "twitch",
@@ -194,7 +157,7 @@
       "title": "Te imaginas que lo mato con esto tio? :v",
       "url": "https://www.twitch.tv/auronplay/clip/DullGracefulTireTriHard-EmVV5Elb-_pQGrej",
       "created_at": "2023-10-12T20:31:39+00:00",
-      "views": 470274,
+      "views": 470276,
       "duration_seconds": 25,
       "rights_status": "unknown",
       "metadata": {
@@ -214,117 +177,6 @@
         "#Shorts",
         "#Viral",
         "#AuronPlay",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 47.31,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M6DK98MGE9F9KFNS903KVSRX",
-      "streamer": "MrStivenTC",
-      "title": "Si",
-      "url": "https://clips.kick.com/clips/aa/clip_01M6DK98MGE9F9KFNS903KVSRX/playlist.m3u8",
-      "created_at": "2026-11-02T07:41:36.925541+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/aa/clip_01M6DK98MGE9F9KFNS903KVSRX/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: Si. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "Si",
-      "description": "Momento destacado de MrStivenTC. Si.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 47.15,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M6DGCGPGG8G86XSSVY1R2H8K",
-      "streamer": "MrStivenTC",
-      "title": "hdhdjdjddjdj",
-      "url": "https://clips.kick.com/clips/e1/clip_01M6DGCGPGG8G86XSSVY1R2H8K/playlist.m3u8",
-      "created_at": "2026-11-02T06:51:03.688834+00:00",
-      "views": 2,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/e1/clip_01M6DGCGPGG8G86XSSVY1R2H8K/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: hdhdjdjddjdj. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "hdhdjdjddjdj",
-      "description": "Momento destacado de MrStivenTC. hdhdjdjddjdj.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 46.96,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M6DJ3N8VXYGF7TS43EW40JXK",
-      "streamer": "MrStivenTC",
-      "title": "hJJjHjH",
-      "url": "https://clips.kick.com/clips/d1/clip_01M6DJ3N8VXYGF7TS43EW40JXK/playlist.m3u8",
-      "created_at": "2026-11-02T07:21:26.115964+00:00",
-      "views": 0,
-      "duration_seconds": 20,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "mrstiventc"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/d1/clip_01M6DJ3N8VXYGF7TS43EW40JXK/playlist.m3u8",
-      "streamer": "MrStivenTC",
-      "hook": "No vas a creer lo que pasó con MrStivenTC.",
-      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: hJJjHjH. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "hJJjHjH",
-      "description": "Momento destacado de MrStivenTC. hJJjHjH.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#MrStivenTC",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -362,6 +214,154 @@
         "#Shorts",
         "#Viral",
         "#Ibai",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 46.68,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
+      "streamer": "Rubius",
+      "title": "No, así no era JAJAJ",
+      "url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
+      "created_at": "2023-10-19T19:50:35+00:00",
+      "views": 263742,
+      "duration_seconds": 25,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "Puty6656"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/rubius/clip/AverageGiftedBearRuleFive-U5skJN9u0bE22XJ8",
+      "streamer": "Rubius",
+      "hook": "No vas a creer lo que pasó con Rubius.",
+      "narration": "Este momento de Rubius está llamando la atención. El clip muestra: No, así no era JAJAJ. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "No, así no era JAJAJ",
+      "description": "Momento destacado de Rubius. No, así no era JAJAJ.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Rubius #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Rubius",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 46.68,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
+      "streamer": "TheGrefg",
+      "title": "Forsen",
+      "url": "https://www.twitch.tv/thegrefg/clip/AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
+      "created_at": "2023-01-29T21:33:29+00:00",
+      "views": 263208,
+      "duration_seconds": 27,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "Killpop_VII"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/thegrefg/clip/AggressiveBumblingWeaselPMSTwin-xIlKRiQ-_TaYx4wL",
+      "streamer": "TheGrefg",
+      "hook": "No vas a creer lo que pasó con TheGrefg.",
+      "narration": "Este momento de TheGrefg está llamando la atención. El clip muestra: Forsen. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Forsen",
+      "description": "Momento destacado de TheGrefg. Forsen.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #TheGrefg #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#TheGrefg",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 46.59,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "SwissVivaciousPeafowlNotLikeThis-MigFHPNh68d01Kxk",
+      "streamer": "Ibai",
+      "title": "RUBIUS VS XQC",
+      "url": "https://www.twitch.tv/ibai/clip/SwissVivaciousPeafowlNotLikeThis-MigFHPNh68d01Kxk",
+      "created_at": "2022-06-25T20:26:33+00:00",
+      "views": 249610,
+      "duration_seconds": 20,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "FreeStylerFC"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/ibai/clip/SwissVivaciousPeafowlNotLikeThis-MigFHPNh68d01Kxk",
+      "streamer": "Ibai",
+      "hook": "No vas a creer lo que pasó con Ibai.",
+      "narration": "Este momento de Ibai está llamando la atención. El clip muestra: RUBIUS VS XQC. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "RUBIUS VS XQC",
+      "description": "Momento destacado de Ibai. RUBIUS VS XQC.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Ibai #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Ibai",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 46.57,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M6DMY287009Z1JMK148AA16H",
+      "streamer": "Willito",
+      "title": "wilito reaciona a wilito alucin 💲",
+      "url": "https://clips.kick.com/clips/84/clip_01M6DMY287009Z1JMK148AA16H/playlist.m3u8",
+      "created_at": "2026-11-02T08:11:49.969180+00:00",
+      "views": 0,
+      "duration_seconds": 31,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "willito"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/84/clip_01M6DMY287009Z1JMK148AA16H/playlist.m3u8",
+      "streamer": "Willito",
+      "hook": "No vas a creer lo que pasó con Willito.",
+      "narration": "Este momento de Willito está llamando la atención. El clip muestra: wilito reaciona a wilito alucin 💲. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "wilito reaciona a wilito alucin 💲",
+      "description": "Momento destacado de Willito. wilito reaciona a wilito alucin 💲.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Willito #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Willito",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
