@@ -1,7 +1,7 @@
 [
   {
     "status": "pending_approval",
-    "score": 53.61,
+    "score": 52.28,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M775EDC6RSHAWF1P9S9AQ9VW",
@@ -9,7 +9,7 @@
       "title": "see",
       "url": "https://clips.kick.com/clips/56/clip_01M775EDC6RSHAWF1P9S9AQ9VW/playlist.m3u8",
       "created_at": "2026-11-12T05:59:54.645112+00:00",
-      "views": 11,
+      "views": 16,
       "duration_seconds": 30,
       "rights_status": "unknown",
       "metadata": {
@@ -38,7 +38,155 @@
   },
   {
     "status": "pending_approval",
-    "score": 52.93,
+    "score": 52.02,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M77B1NX0KFJ72YY3PY5NQNYZ",
+      "streamer": "WestCOL",
+      "title": "West",
+      "url": "https://clips.kick.com/clips/dc/clip_01M77B1NX0KFJ72YY3PY5NQNYZ/playlist.m3u8",
+      "created_at": "2026-11-12T07:38:34.437189+00:00",
+      "views": 4,
+      "duration_seconds": 38,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/dc/clip_01M77B1NX0KFJ72YY3PY5NQNYZ/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: West. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "West",
+      "description": "Momento destacado de WestCOL. West.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.66,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M77EJVYA8AXFCEV6H7E9BPRZ",
+      "streamer": "Peereira7",
+      "title": "los moros",
+      "url": "https://clips.kick.com/clips/bc/clip_01M77EJVYA8AXFCEV6H7E9BPRZ/playlist.m3u8",
+      "created_at": "2026-11-12T08:39:52.136629+00:00",
+      "views": 1,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "peereira7"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/bc/clip_01M77EJVYA8AXFCEV6H7E9BPRZ/playlist.m3u8",
+      "streamer": "Peereira7",
+      "hook": "No vas a creer lo que pasó con Peereira7.",
+      "narration": "Este momento de Peereira7 está llamando la atención. El clip muestra: los moros. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "los moros",
+      "description": "Momento destacado de Peereira7. los moros.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Peereira7 #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#Peereira7",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.64,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M77EFT3DY9EH904P58N50W3E",
+      "streamer": "RDJavi",
+      "title": "rdjavi",
+      "url": "https://clips.kick.com/clips/00/clip_01M77EFT3DY9EH904P58N50W3E/playlist.m3u8",
+      "created_at": "2026-11-12T08:39:12.239956+00:00",
+      "views": 0,
+      "duration_seconds": 43,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/00/clip_01M77EFT3DY9EH904P58N50W3E/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: rdjavi. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "rdjavi",
+      "description": "Momento destacado de RDJavi. rdjavi.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.41,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M77DWQP15FT04Q9HW5RY2KH6",
+      "streamer": "RDJavi",
+      "title": "ss",
+      "url": "https://clips.kick.com/clips/a3/clip_01M77DWQP15FT04Q9HW5RY2KH6/playlist.m3u8",
+      "created_at": "2026-11-12T08:27:32.381204+00:00",
+      "views": 0,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/a3/clip_01M77DWQP15FT04Q9HW5RY2KH6/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: ss. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "ss",
+      "description": "Momento destacado de RDJavi. ss.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 51.08,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M771Y2JAQWE19TFBQSMN7AE9",
@@ -75,7 +223,81 @@
   },
   {
     "status": "pending_approval",
-    "score": 51.87,
+    "score": 50.9,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M77CCF651QNTQAPM2AXV7P75",
+      "streamer": "RDJavi",
+      "title": "5e5e5e5e",
+      "url": "https://clips.kick.com/clips/02/clip_01M77CCF651QNTQAPM2AXV7P75/playlist.m3u8",
+      "created_at": "2026-11-12T08:02:35.606899+00:00",
+      "views": 0,
+      "duration_seconds": 26,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/02/clip_01M77CCF651QNTQAPM2AXV7P75/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: 5e5e5e5e. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "5e5e5e5e",
+      "description": "Momento destacado de RDJavi. 5e5e5e5e.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 50.46,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M776CQPSA5QEHJS8NWMAH9W0",
+      "streamer": "RDJavi",
+      "title": "sobasela eh",
+      "url": "https://clips.kick.com/clips/e7/clip_01M776CQPSA5QEHJS8NWMAH9W0/playlist.m3u8",
+      "created_at": "2026-11-12T06:16:28.463276+00:00",
+      "views": 4,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/e7/clip_01M776CQPSA5QEHJS8NWMAH9W0/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: sobasela eh. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "sobasela eh",
+      "description": "Momento destacado de RDJavi. sobasela eh.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 49.84,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M779APXAT6ZQ5365ER0PYKFN",
@@ -112,7 +334,7 @@
   },
   {
     "status": "pending_approval",
-    "score": 50.91,
+    "score": 48.95,
     "candidate": {
       "source": "kick",
       "source_id": "clip_01M776J5V28AW17N4X5CTTBEE4",
@@ -136,228 +358,6 @@
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
       "title": "yau",
       "description": "Momento destacado de RDJavi. yau.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.87,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M776EBYQ2YTTX8P6Z7RW3WV3",
-      "streamer": "RDJavi",
-      "title": "jajajjaja",
-      "url": "https://clips.kick.com/clips/62/clip_01M776EBYQ2YTTX8P6Z7RW3WV3/playlist.m3u8",
-      "created_at": "2026-11-12T06:18:56.116029+00:00",
-      "views": 1,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/62/clip_01M776EBYQ2YTTX8P6Z7RW3WV3/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: jajajjaja. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "jajajjaja",
-      "description": "Momento destacado de RDJavi. jajajjaja.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.83,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M776BJYA0HJ8XPYKBXSQ2K6Q",
-      "streamer": "RDJavi",
-      "title": "544",
-      "url": "https://clips.kick.com/clips/4e/clip_01M776BJYA0HJ8XPYKBXSQ2K6Q/playlist.m3u8",
-      "created_at": "2026-11-12T06:16:57.981654+00:00",
-      "views": 0,
-      "duration_seconds": 38,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/4e/clip_01M776BJYA0HJ8XPYKBXSQ2K6Q/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: 544. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "544",
-      "description": "Momento destacado de RDJavi. 544.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.82,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M776CQPSA5QEHJS8NWMAH9W0",
-      "streamer": "RDJavi",
-      "title": "sobasela eh",
-      "url": "https://clips.kick.com/clips/e7/clip_01M776CQPSA5QEHJS8NWMAH9W0/playlist.m3u8",
-      "created_at": "2026-11-12T06:16:28.463276+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/e7/clip_01M776CQPSA5QEHJS8NWMAH9W0/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: sobasela eh. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "sobasela eh",
-      "description": "Momento destacado de RDJavi. sobasela eh.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.81,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M772SQG93GB0X1Z1GAWQMPP3",
-      "streamer": "WestCOL",
-      "title": ".",
-      "url": "https://clips.kick.com/clips/f4/clip_01M772SQG93GB0X1Z1GAWQMPP3/playlist.m3u8",
-      "created_at": "2026-11-12T05:13:53.285885+00:00",
-      "views": 3,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/f4/clip_01M772SQG93GB0X1Z1GAWQMPP3/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: .. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": ".",
-      "description": "Momento destacado de WestCOL. ..\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.8,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7767Q3R0B0JDD5XHHSA8MCF",
-      "streamer": "RDJavi",
-      "title": "350",
-      "url": "https://clips.kick.com/clips/77/clip_01M7767Q3R0B0JDD5XHHSA8MCF/playlist.m3u8",
-      "created_at": "2026-11-12T06:15:08.915532+00:00",
-      "views": 1,
-      "duration_seconds": 43,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/77/clip_01M7767Q3R0B0JDD5XHHSA8MCF/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: 350. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "350",
-      "description": "Momento destacado de RDJavi. 350.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 50.76,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7765GES1B7VVNK5EMM3GNWK",
-      "streamer": "RDJavi",
-      "title": "gaaa",
-      "url": "https://clips.kick.com/clips/33/clip_01M7765GES1B7VVNK5EMM3GNWK/playlist.m3u8",
-      "created_at": "2026-11-12T06:13:16.333540+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/33/clip_01M7765GES1B7VVNK5EMM3GNWK/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: gaaa. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "gaaa",
-      "description": "Momento destacado de RDJavi. gaaa.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
