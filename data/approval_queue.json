@@ -1,16 +1,53 @@
 [
   {
     "status": "pending_approval",
-    "score": 52.42,
+    "score": 56.23,
+    "candidate": {
+      "source": "twitch",
+      "source_id": "TsundereSmoggyRaccoonPermaSmug-zUq7va1zP5OLv98f",
+      "streamer": "IlloJuan",
+      "title": "gta 6 borrado",
+      "url": "https://www.twitch.tv/illojuan/clip/TsundereSmoggyRaccoonPermaSmug-zUq7va1zP5OLv98f",
+      "created_at": "2026-11-18T23:02:09+00:00",
+      "views": 54993,
+      "duration_seconds": 23,
+      "rights_status": "unknown",
+      "metadata": {
+        "creator_name": "Clober"
+      }
+    },
+    "content_plan": {
+      "source": "twitch",
+      "source_url": "https://www.twitch.tv/illojuan/clip/TsundereSmoggyRaccoonPermaSmug-zUq7va1zP5OLv98f",
+      "streamer": "IlloJuan",
+      "hook": "No vas a creer lo que pasó con IlloJuan.",
+      "narration": "Este momento de IlloJuan está llamando la atención. El clip muestra: gta 6 borrado. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "gta 6 borrado",
+      "description": "Momento destacado de IlloJuan. gta 6 borrado.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #IlloJuan #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#IlloJuan",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 53.25,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M7SGW6BA5M821ZFK7R0CEG3M",
+      "source_id": "clip_01M7TQH58KPTCDFZ7YCHW29DJY",
       "streamer": "RDJavi",
-      "title": "hhg",
-      "url": "https://clips.kick.com/clips/f1/clip_01M7SGW6BA5M821ZFK7R0CEG3M/playlist.m3u8",
-      "created_at": "2026-11-19T09:06:06.541793+00:00",
-      "views": 11,
-      "duration_seconds": 31,
+      "title": "95",
+      "url": "https://clips.kick.com/clips/26/clip_01M7TQH58KPTCDFZ7YCHW29DJY/playlist.m3u8",
+      "created_at": "2026-11-19T20:22:34.068788+00:00",
+      "views": 3,
+      "duration_seconds": 46,
       "rights_status": "unknown",
       "metadata": {
         "kick_slug": "rdjavi"
@@ -18,17 +55,202 @@
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/f1/clip_01M7SGW6BA5M821ZFK7R0CEG3M/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/26/clip_01M7TQH58KPTCDFZ7YCHW29DJY/playlist.m3u8",
       "streamer": "RDJavi",
       "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: hhg. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: 95. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "hhg",
-      "description": "Momento destacado de RDJavi. hhg.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "title": "95",
+      "description": "Momento destacado de RDJavi. 95.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
         "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 53.25,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TQHP00AMB8THXMW31RDDBF",
+      "streamer": "RDJavi",
+      "title": "Bobo con el gordo en el carro",
+      "url": "https://clips.kick.com/clips/da/clip_01M7TQHP00AMB8THXMW31RDDBF/playlist.m3u8",
+      "created_at": "2026-11-19T20:22:32.804573+00:00",
+      "views": 3,
+      "duration_seconds": 30,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "rdjavi"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/da/clip_01M7TQHP00AMB8THXMW31RDDBF/playlist.m3u8",
+      "streamer": "RDJavi",
+      "hook": "No vas a creer lo que pasó con RDJavi.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: Bobo con el gordo en el carro. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Bobo con el gordo en el carro",
+      "description": "Momento destacado de RDJavi. Bobo con el gordo en el carro.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#RDJavi",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 53.09,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TQ1SM30KKDHGJ9XQX5MEG4",
+      "streamer": "WestCOL",
+      "title": "sopa sdde caracol (Honduras)",
+      "url": "https://clips.kick.com/clips/6a/clip_01M7TQ1SM30KKDHGJ9XQX5MEG4/playlist.m3u8",
+      "created_at": "2026-11-19T20:14:55.008779+00:00",
+      "views": 3,
+      "duration_seconds": 41,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/6a/clip_01M7TQ1SM30KKDHGJ9XQX5MEG4/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: sopa sdde caracol (Honduras). La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "sopa sdde caracol (Honduras)",
+      "description": "Momento destacado de WestCOL. sopa sdde caracol (Honduras).\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 53.06,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TQ0N4GCVC235RY6SXDY40N",
+      "streamer": "WestCOL",
+      "title": "Esa mano DE MANUAL",
+      "url": "https://clips.kick.com/clips/03/clip_01M7TQ0N4GCVC235RY6SXDY40N/playlist.m3u8",
+      "created_at": "2026-11-19T20:13:11.386449+00:00",
+      "views": 3,
+      "duration_seconds": 23,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/03/clip_01M7TQ0N4GCVC235RY6SXDY40N/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: Esa mano DE MANUAL. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "Esa mano DE MANUAL",
+      "description": "Momento destacado de WestCOL. Esa mano DE MANUAL.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.98,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TPSXB06HBWTYV9ZM4YJBT2",
+      "streamer": "WestCOL",
+      "title": "pq",
+      "url": "https://clips.kick.com/clips/ad/clip_01M7TPSXB06HBWTYV9ZM4YJBT2/playlist.m3u8",
+      "created_at": "2026-11-19T20:09:19.202529+00:00",
+      "views": 3,
+      "duration_seconds": 50,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/ad/clip_01M7TPSXB06HBWTYV9ZM4YJBT2/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: pq. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "pq",
+      "description": "Momento destacado de WestCOL. pq.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.77,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TQM9TKQFF8ZH9TTCDXKRSN",
+      "streamer": "WestCOL",
+      "title": "esas dos popetas",
+      "url": "https://clips.kick.com/clips/4f/clip_01M7TQM9TKQFF8ZH9TTCDXKRSN/playlist.m3u8",
+      "created_at": "2026-11-19T20:23:33.494880+00:00",
+      "views": 2,
+      "duration_seconds": 43,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/4f/clip_01M7TQM9TKQFF8ZH9TTCDXKRSN/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: esas dos popetas. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "esas dos popetas",
+      "description": "Momento destacado de WestCOL. esas dos popetas.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
         "#Streamer"
       ],
       "aspect_ratio": "9:16",
@@ -41,323 +263,101 @@
     "score": 52.16,
     "candidate": {
       "source": "kick",
-      "source_id": "clip_01M7SS23NEPZ62Q6J1JZ9NNK5V",
+      "source_id": "clip_01M7TQWB95AW4Y9YZM85CG8RXM",
       "streamer": "WestCOL",
-      "title": "tt",
-      "url": "https://clips.kick.com/clips/55/clip_01M7SS23NEPZ62Q6J1JZ9NNK5V/playlist.m3u8",
-      "created_at": "2026-11-19T11:30:10.913127+00:00",
+      "title": "temazo",
+      "url": "https://clips.kick.com/clips/cb/clip_01M7TQWB95AW4Y9YZM85CG8RXM/playlist.m3u8",
+      "created_at": "2026-11-19T20:28:05.036900+00:00",
       "views": 0,
+      "duration_seconds": 23,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "westcol"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/cb/clip_01M7TQWB95AW4Y9YZM85CG8RXM/playlist.m3u8",
+      "streamer": "WestCOL",
+      "hook": "No vas a creer lo que pasó con WestCOL.",
+      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: temazo. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "temazo",
+      "description": "Momento destacado de WestCOL. temazo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#WestCOL",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.08,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TK5ZPBN4HTTJ8JFFB78G9H",
+      "streamer": "MrStivenTC",
+      "title": "vvvvv",
+      "url": "https://clips.kick.com/clips/a0/clip_01M7TK5ZPBN4HTTJ8JFFB78G9H/playlist.m3u8",
+      "created_at": "2026-11-19T19:05:28.423258+00:00",
+      "views": 4,
+      "duration_seconds": 33,
+      "rights_status": "unknown",
+      "metadata": {
+        "kick_slug": "mrstiventc"
+      }
+    },
+    "content_plan": {
+      "source": "kick",
+      "source_url": "https://clips.kick.com/clips/a0/clip_01M7TK5ZPBN4HTTJ8JFFB78G9H/playlist.m3u8",
+      "streamer": "MrStivenTC",
+      "hook": "No vas a creer lo que pasó con MrStivenTC.",
+      "narration": "Este momento de MrStivenTC está llamando la atención. El clip muestra: vvvvv. La reacción y el contexto son lo que hacen que este momento destaque.",
+      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
+      "title": "vvvvv",
+      "description": "Momento destacado de MrStivenTC. vvvvv.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #MrStivenTC #Streamer",
+      "hashtags": [
+        "#Shorts",
+        "#Viral",
+        "#MrStivenTC",
+        "#Streamer"
+      ],
+      "aspect_ratio": "9:16",
+      "target_duration_seconds": 45,
+      "approval_required": true
+    }
+  },
+  {
+    "status": "pending_approval",
+    "score": 52.01,
+    "candidate": {
+      "source": "kick",
+      "source_id": "clip_01M7TQDPY9J6K402WS6FSR760V",
+      "streamer": "RDJavi",
+      "title": "Gta lo mejor 😎🤏",
+      "url": "https://clips.kick.com/clips/18/clip_01M7TQDPY9J6K402WS6FSR760V/playlist.m3u8",
+      "created_at": "2026-11-19T20:20:38.742350+00:00",
+      "views": 1,
       "duration_seconds": 31,
       "rights_status": "unknown",
       "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/55/clip_01M7SS23NEPZ62Q6J1JZ9NNK5V/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: tt. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "tt",
-      "description": "Momento destacado de WestCOL. tt.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.11,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SRZM1YXDK4FNDTWPYF804V",
-      "streamer": "WestCOL",
-      "title": "trrg",
-      "url": "https://clips.kick.com/clips/ae/clip_01M7SRZM1YXDK4FNDTWPYF804V/playlist.m3u8",
-      "created_at": "2026-11-19T11:27:37.457144+00:00",
-      "views": 0,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/ae/clip_01M7SRZM1YXDK4FNDTWPYF804V/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: trrg. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "trrg",
-      "description": "Momento destacado de WestCOL. trrg.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 52.11,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SRSXJH8MC0DAYNAFN6F86E",
-      "streamer": "Peereira7",
-      "title": "1",
-      "url": "https://clips.kick.com/clips/16/clip_01M7SRSXJH8MC0DAYNAFN6F86E/playlist.m3u8",
-      "created_at": "2026-11-19T11:27:32.865532+00:00",
-      "views": 1,
-      "duration_seconds": 36,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "peereira7"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/16/clip_01M7SRSXJH8MC0DAYNAFN6F86E/playlist.m3u8",
-      "streamer": "Peereira7",
-      "hook": "No vas a creer lo que pasó con Peereira7.",
-      "narration": "Este momento de Peereira7 está llamando la atención. El clip muestra: 1. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "1",
-      "description": "Momento destacado de Peereira7. 1.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Peereira7 #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Peereira7",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.89,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SRB8HHCQ0CRHHRDBQBBGAP",
-      "streamer": "WestCOL",
-      "title": "perreo",
-      "url": "https://clips.kick.com/clips/a3/clip_01M7SRB8HHCQ0CRHHRDBQBBGAP/playlist.m3u8",
-      "created_at": "2026-11-19T11:17:05.485371+00:00",
-      "views": 1,
-      "duration_seconds": 30,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/a3/clip_01M7SRB8HHCQ0CRHHRDBQBBGAP/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: perreo. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "perreo",
-      "description": "Momento destacado de WestCOL. perreo.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.37,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SPWA2FKB851Y03S9XEJ542",
-      "streamer": "WestCOL",
-      "title": "westcok",
-      "url": "https://clips.kick.com/clips/db/clip_01M7SPWA2FKB851Y03S9XEJ542/playlist.m3u8",
-      "created_at": "2026-11-19T10:51:45.091154+00:00",
-      "views": 0,
-      "duration_seconds": 45,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "westcol"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/db/clip_01M7SPWA2FKB851Y03S9XEJ542/playlist.m3u8",
-      "streamer": "WestCOL",
-      "hook": "No vas a creer lo que pasó con WestCOL.",
-      "narration": "Este momento de WestCOL está llamando la atención. El clip muestra: westcok. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "westcok",
-      "description": "Momento destacado de WestCOL. westcok.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #WestCOL #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#WestCOL",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.27,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SG61NS7QY11A06R5B2M7F5",
-      "streamer": "RDJavi",
-      "title": "...",
-      "url": "https://clips.kick.com/clips/6d/clip_01M7SG61NS7QY11A06R5B2M7F5/playlist.m3u8",
-      "created_at": "2026-11-19T08:54:46.108879+00:00",
-      "views": 6,
-      "duration_seconds": 49,
-      "rights_status": "unknown",
-      "metadata": {
         "kick_slug": "rdjavi"
       }
     },
     "content_plan": {
       "source": "kick",
-      "source_url": "https://clips.kick.com/clips/6d/clip_01M7SG61NS7QY11A06R5B2M7F5/playlist.m3u8",
+      "source_url": "https://clips.kick.com/clips/18/clip_01M7TQDPY9J6K402WS6FSR760V/playlist.m3u8",
       "streamer": "RDJavi",
       "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: .... La reacción y el contexto son lo que hacen que este momento destaque.",
+      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: Gta lo mejor 😎🤏. La reacción y el contexto son lo que hacen que este momento destaque.",
       "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "...",
-      "description": "Momento destacado de RDJavi. ....\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#RDJavi",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.26,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SPJY5PFQA8CE9182VEBDG4",
-      "streamer": "Peereira7",
-      "title": "gta 6",
-      "url": "https://clips.kick.com/clips/66/clip_01M7SPJY5PFQA8CE9182VEBDG4/playlist.m3u8",
-      "created_at": "2026-11-19T10:46:08.284750+00:00",
-      "views": 1,
-      "duration_seconds": 34,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "peereira7"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/66/clip_01M7SPJY5PFQA8CE9182VEBDG4/playlist.m3u8",
-      "streamer": "Peereira7",
-      "hook": "No vas a creer lo que pasó con Peereira7.",
-      "narration": "Este momento de Peereira7 está llamando la atención. El clip muestra: gta 6. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "gta 6",
-      "description": "Momento destacado de Peereira7. gta 6.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Peereira7 #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Peereira7",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.24,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SPGYPX56M6JPRPHXTPW4DE",
-      "streamer": "Peereira7",
-      "title": "pereyra",
-      "url": "https://clips.kick.com/clips/6a/clip_01M7SPGYPX56M6JPRPHXTPW4DE/playlist.m3u8",
-      "created_at": "2026-11-19T10:44:58.502374+00:00",
-      "views": 0,
-      "duration_seconds": 40,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "peereira7"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/6a/clip_01M7SPGYPX56M6JPRPHXTPW4DE/playlist.m3u8",
-      "streamer": "Peereira7",
-      "hook": "No vas a creer lo que pasó con Peereira7.",
-      "narration": "Este momento de Peereira7 está llamando la atención. El clip muestra: pereyra. La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "pereyra",
-      "description": "Momento destacado de Peereira7. pereyra.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #Peereira7 #Streamer",
-      "hashtags": [
-        "#Shorts",
-        "#Viral",
-        "#Peereira7",
-        "#Streamer"
-      ],
-      "aspect_ratio": "9:16",
-      "target_duration_seconds": 45,
-      "approval_required": true
-    }
-  },
-  {
-    "status": "pending_approval",
-    "score": 51.22,
-    "candidate": {
-      "source": "kick",
-      "source_id": "clip_01M7SG0N11FVXXQJWFVRMBDRMZ",
-      "streamer": "RDJavi",
-      "title": "...",
-      "url": "https://clips.kick.com/clips/78/clip_01M7SG0N11FVXXQJWFVRMBDRMZ/playlist.m3u8",
-      "created_at": "2026-11-19T08:51:39.972103+00:00",
-      "views": 6,
-      "duration_seconds": 44,
-      "rights_status": "unknown",
-      "metadata": {
-        "kick_slug": "rdjavi"
-      }
-    },
-    "content_plan": {
-      "source": "kick",
-      "source_url": "https://clips.kick.com/clips/78/clip_01M7SG0N11FVXXQJWFVRMBDRMZ/playlist.m3u8",
-      "streamer": "RDJavi",
-      "hook": "No vas a creer lo que pasó con RDJavi.",
-      "narration": "Este momento de RDJavi está llamando la atención. El clip muestra: .... La reacción y el contexto son lo que hacen que este momento destaque.",
-      "cta": "¿Tú cómo habrías reaccionado? Déjalo en los comentarios.",
-      "title": "...",
-      "description": "Momento destacado de RDJavi. ....\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
+      "title": "Gta lo mejor 😎🤏",
+      "description": "Momento destacado de RDJavi. Gta lo mejor 😎🤏.\n\nContenido preparado con edición y comentario original. La publicación requiere aprobación antes de salir.\n\n#Shorts #Viral #RDJavi #Streamer",
       "hashtags": [
         "#Shorts",
         "#Viral",
